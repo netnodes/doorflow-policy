@@ -14,3 +14,7 @@
 * [DoorFlow Terms of Service](terms_of_service)
 * [DoorFlow Service Level Agreement (SLA)](service_level_agreement)
 * [Use of Cookies](cookies)
+
+## Related links
+
+* [NetNodes Policy Pages](https://policy.netnodes.net)
