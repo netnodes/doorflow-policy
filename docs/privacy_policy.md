@@ -1,3 +1,7 @@
+---
+go_back: true
+---
+
 This Privacy Policy describes how NetNodes Limited and its affiliates ("DoorFlow," "we," "our" or "us") collect, use, and share information in connection with your use of our websites (including www.doorflow.com), services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.
 
 
@@ -27,7 +31,7 @@ DoorFlow provides the capability for End Users to store basic personal informati
 
 #### Log Information
 
-DoorFlow records the actions of system Administrators and API Users, as well as the status and the settings of various devices that have been configured to operate with DoorFlow. 
+DoorFlow records the actions of system Administrators and API Users, as well as the status and the settings of various devices that have been configured to operate with DoorFlow.
 
 Customer Data entered in a DoorFlow account by End Users or collected through the operation of the system are for the exclusive use of our End Users. DoorFlow staff may access Customer Data only for the purposes of providing and supporting the functionality of the Products, preventing or addressing service or technical problems, or as may be required by law.
 
@@ -37,7 +41,7 @@ DoorFlow collects access control event data - for example that an access card wa
 
 #### Cookies and Other Tracking Technologies
 
-As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. 
+As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL.
 
 To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognise you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
 
@@ -119,7 +123,7 @@ To protect your privacy and security, we may also take reasonable steps to verif
 
 ## 9. HOW GDPR RELATES TO DOORFLOW
 
-In the context of the GDPR, individuals with data stored in DoorFlow or individuals using DoorFlow applications are considered Data Subjects. DoorFlow end-users and in some cases DoorFlow Resellers are considered Data Controllers. DoorFlow is a Data Processor.
+In the context of the GDPR, individuals with data stored in DoorFlow or individuals using DoorFlow applications are considered Data Subjects. DoorFlow account holders  and in some cases DoorFlow Resellers are considered Data Controllers. DoorFlow is a Data Processor.
 
 As a Data Processor, DoorFlow is the responsible custodian of the Data Subject’s data, performing this role on behalf of the Data Controller. The Data Controller is completely responsible to determine what data is captured, stored and processed within DoorFlow. The Data Controller is the owner of the data. DoorFlow does not rent, share, disclose or sell any data owned by the Data Controller.
 
@@ -129,7 +133,7 @@ Data Subject requests to purge data from DoorFlow is subject to Terms of Service
 
 In cases where Data Subjects use DoorFlow websites or applications directly, DoorFlow is the Data Controller and as such is responsible for gaining explicit or unambiguous consent based on the type of data collected.
 
-Data Subject requests to purge data collected directly by DoorFlow will be adjudicated by DoorFlow staff.
+Data Subject requests to purge data collected directly by DoorFlow will be adjudicated by DoorFlow staff in liaison with the account holder.
 
 The GDPR includes provisions that grant Data Subjects portability rights in their personal data. Any personal data we store on behalf of Data Controllers belongs to the Data Subjects'. We will coordinate with Data Subjects and, as applicable Data Controllers, when requested to delete or port data. We provide tools for portability and are continually working to enhance our data export capabilities.
 
@@ -149,6 +153,6 @@ Children under 13 are prohibited from using our Services. If you learn that a ch
 This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our websites. If we materially change the ways in which we use or share personal information previously collected from you through our Services, we will notify you through our Services, by email, or other communication.
 
 ### Contact Us
-If you have any questions or concerns about this Privacy Policy, please feel free to email us at privacy@ddoorflow.com.
+If you have any questions or concerns about this Privacy Policy, please feel free to email us at privacy@doorflow.com.
 
-The data controller of your personal information is NetNodes Limited.
+DoorFlow is developed, operated and maintained by NetNodes Limited. The Data Controller of your personal information is NetNodes Limited.

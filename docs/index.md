@@ -1,19 +1,16 @@
-## Our Values
+## Corporate
 
-### Corporate
-	
-[Corporate & Social Responsibility](corporate_social_responsibility)
+* [Corporate & Social Responsibility](corporate_social_responsibility)
+* [Data Protection & Privacy](privacy_policy)
+* [Equal Opportunities](equal_opportunities)
+* [Environmental](environmental)
 
-[Data Protection & Privacy](privacy_policy)
+## Commercial
 
-[Equal Opportunities](equal_opportunities)
+* [Terms of Sale](terms)
 
-[Environmental](environmental)
+## Services
 
-### Commercial
-
-[Terms of Sale](terms)
-
-### Services
-
-[DoorFlow Terms of Service](terms_of_service)
+* [DoorFlow Terms of Service](terms_of_service)
+* [DoorFlow Service Level Agreement (SLA)](service_level_agreement)
+* [Use of Cookies](cookies)

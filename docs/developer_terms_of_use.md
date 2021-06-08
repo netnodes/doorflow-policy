@@ -1,3 +1,7 @@
+---
+go_back: true
+---
+
 ###Developer Terms of Use
 
 ####1. Welcome to the DoorFlow Developer Platform!
@@ -70,9 +74,9 @@ c.    all information you provide to DoorFlow is and will be true, accurate, and
 d.    you will not interfere with DoorFlow’s business practices, the way in which it offers the DoorFlow Service or the Developer Platform or any third party products or networks used with the Developer Platform. You will indemnify, defend (at DoorFlow’s request) and hold harmless DoorFlow and its affiliates and their respective directors, officers, employees, agents, contractors, end users and licensees from and against any claims, losses, costs, expenses (including reasonable attorneys’ fees), damages or liabilities based on or arising from
 
     - (i) your use of the Developer Platform,
-	
+
     - (ii) Your Applications and your relationships or interactions with any users or third party distributors of Your Applications, or
-	
+
     - (iii) your breach or alleged breach of these Terms. DoorFlow may at its own expense participate in the defense and settlement of any claim with its own counsel, and you may not settle a claim without DoorFlow’s prior written consent (not to be unreasonably withheld).
 
 ####8. Disclaimer of Warranties
@@ -111,7 +115,7 @@ You retain ownership of any intellectual property rights in Your Applications, s
 
 DoorFlow may provide certain information to you that is confidential or proprietary (“DoorFlow Confidential Information”). DoorFlow Confidential Information consists of
 
-a.    your access keys or logins for the Developer Platform, any non-public elements of the Developer Platform or any pre-release information about the DoorFlow Service and 
+a.    your access keys or logins for the Developer Platform, any non-public elements of the Developer Platform or any pre-release information about the DoorFlow Service and
 
 b.    anything identified or marked as “Confidential” or “Proprietary” or that you should reasonably understand to be confidential or proprietary under the circumstances. You may use DoorFlow Confidential Information only for the purposes of these Terms. You may not disclose any DoorFlow Confidential Information to third parties, other than your employees, agents and advisors with a need to know and for whom you agree to remain responsible under these Terms.
 
@@ -127,7 +131,7 @@ Upon termination of these Terms:
 
 - all rights and licenses granted to you will terminate immediately and you must stop using all DoorFlow Materials (unless you have a separate right to use them under another agreement with DoorFlow);
 
-- neither party is liable to the other party just because the agreement has been terminated; and 
+- neither party is liable to the other party just because the agreement has been terminated; and
 - you must permanently delete all DoorFlow Confidential Information and any other data which you stored pursuant to your use of the Developer Platform (other than User Data you have received and are using in accordance with Section 7(a)) and, at DoorFlow’s request, you will confirm such destruction;
 
 - Sections 7 (Your Responsibilities) through 14 (General) will survive.

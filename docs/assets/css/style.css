@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --color__primary: 41,45,51;
+  --color__secondary: 85,85,85;
+  --color__accent: 72,131,227;
+  --font: 'Ubuntu';
+}
+
+body {
+  font-family: var(--font);
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 8px;
+  font-weight: 300;
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: rgba(var(--color__primary), 1);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+span,
+small,
+ul,
+ol,
+dl,
+label,
+select,
+input,
+button,
+table {
+  font-size: 2rem;
+  font-weight: 300;
+  margin: 0;
+}
+
+a {
+  color: rgba(var(--color__accent), 1);
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+ul,
+ol,
+p {
+  margin-top: 3rem;
+  line-height: 3rem;
+}
+
+h1 {
+  margin: 0;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+
+h4 + p {
+  margin-top: 1rem;
+}
+
+p,
+li {
+  color: rgba(var(--color__secondary), 1);
+  line-height: 3rem;
+}
+
+ul li,
+ol li {
+  margin-top: 2rem;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+ul li {
+  position: relative;
+  padding-left: 2rem;
+}
+
+ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  width: 4px;
+  height: 4px;
+  background: rgba(var(--color__secondary), 1);
+  display: block;
+}
+
+.wrapper {
+  max-width: 800px;
+  padding: 0 4rem;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #efefef;
+  padding: 4rem 0;
+}
+
+section {
+  padding-bottom: 4rem;
+}

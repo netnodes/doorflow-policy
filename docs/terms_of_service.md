@@ -1,22 +1,26 @@
-# DoorFlow Terms of Service
+---
+go_back: true
+---
+
+## DoorFlow Terms of Service
 
 By using the doorflow.com web site (“Service”), or any services of NetNodes (“NetNodes”), you are agreeing to be bound by the following terms and conditions (“Terms of Service”). NetNodes is a trading name of NetNodes Limited.
 
-NetNodes reserves the right to update and change the Terms of Service from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at: https://www.doorflow.com/about/terms
+NetNodes reserves the right to update and change the Terms of Service from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at: [policy.doorflow.com](https://policy.doorflow.com/)
 
 Violation of any of the terms below will result in the termination of your Account. While NetNodes prohibits such conduct and Content on the Service, you understand and agree that NetNodes cannot be responsible for the Content posted on the Service and you nonetheless may be exposed to such materials. You agree to use the Service at your own risk.
 
-## 1. Account Terms
+### 1. Account Terms
  a.	You must be 13 years or older to use this Service.
- 
+
  b.	You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
- 
+
  c.	You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
- 
+
 d.	Your login may only be used by one person – a single login shared by multiple people is not permitted. You may create separate logins for as many people as your plan allows.
- 
+
 e.	You are responsible for maintaining the security of your account and password. NetNodes cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
- 
+
 f.	You are responsible for all Content posted and activity that occurs under your account (even when Content is posted by others who have accounts under your account).
 
 g.	If you are using a free account you are not permitted to block ads.
@@ -25,21 +29,21 @@ h.	One person or legal entity may not maintain more than one free account.
 
 i.	You may not use the Service for any illegal or unauthorised purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).
 
-## 2. API Terms
+### 2. API Terms
 
 Customers may access their DoorFlow account data via an API (Application Program Interface). Any use of the API, including use of the API through a NetNodes product or third-party product that accesses DoorFlow, is bound by the terms of this agreement plus the following specific terms:
 
  a.	You expressly understand and agree that NetNodes shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if NetNodes has been advised of the possibility of such damages), resulting from your use of the API or third-party products that access data via the API.
 
  b. Abuse or excessively frequent requests to DoorFlow via the API may result in the temporary or permanent suspension of your account's access to the API. NetNodes, in its sole discretion, will determine abuse or excessive usage of the API. NetNodes will make a reasonable attempt via email to warn the account owner prior to suspension.
- 
+
 c.	NetNodes reserves the right at any time to modify or discontinue, temporarily or permanently, your access to the API (or any part thereof) with or without notice.
 
-## 3. Payment, Refunds, Upgrading and Downgrading Terms
+### 3. Payment, Refunds, Upgrading and Downgrading Terms
 a.	A valid credit card is required for paying accounts. Free accounts are not required to provide a credit card number.
- 
+
 b.	If you initially sign up for a Personal, Basic, Plus, Solo, Premium, or Max account, and you don't cancel that account within 30 days, you will be billed monthly starting on the 30th day after your account was initially created. If you cancel prior to the processing of your first invoice on the 30th day, you will not be charged.
- 
+
 c.	An upgrade from the free 1-project plan to any paying plan will end your free trial. You will be billed for your first month immediately upon upgrading.
 
 d.	The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.
@@ -50,7 +54,7 @@ f.	For any upgrade or downgrade in plan level, your credit card that you provide
 
 g.	Downgrading your Service may cause the loss of Content, features, or capacity of your Account. NetNodes does not accept any liability for such loss.
 
-## 4. Cancellation and Termination
+### 4. Cancellation and Termination
 a. You are solely responsible for properly cancelling your account. An email or phone request to cancel your account is not considered cancellation. You can cancel your account at any time by clicking on the Account link in the global navigation bar at the top of the screen. The Account screen provides a simple no questions asked cancellation link.
 
 b.	All of your Content will be immediately deleted from the Service upon cancellation. This information can not be recovered once your account is cancelled.
@@ -59,14 +63,14 @@ c.	If you cancel the Service before the end of your current paid up month, your 
 
 d.	NetNodes, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service, or any other NetNodes service, for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all Content in your Account. NetNodes reserves the right to refuse service to anyone for any reason at any time.
 
-## 5. Modifications to the Service and Prices
+### 5. Modifications to the Service and Prices
 a.	NetNodes reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.
 
 b.	Prices of all Services, including but not limited to monthly subscription plan fees to the Service, are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the DoorFlow Site (doorflow.com) or the Service itself.
 
 c.	NetNodes shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Service.
 
-## 6. Copyright and Content Ownership
+### 6. Copyright and Content Ownership
 a.	All content posted on the Service is must comply with U.K. copyright law. Please review our copyright compliance policy.
 
 b.	We claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours. However, by setting your pages to be shared publicly, you agree to allow others to view and share your Content.
@@ -75,7 +79,7 @@ c.	NetNodes does not pre-screen Content, but NetNodes and its designee have the 
 
 d.	The look and feel of the Service is copyright©2008-2012 NetNodes. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from NetNodes.
 
-### 7. General Conditions
+#### 7. General Conditions
 a.	Your use of the Service is at your sole risk. The service is provided on an “as is” and “as available” basis.
 
 b.	Technical support is only provided to paying account holders and is only available via email.
@@ -105,4 +109,3 @@ m.	The failure of NetNodes to exercise or enforce any right or provision of the 
 n.	You expressly understand and agree that you are fully responsible for your site security at all times. We recommend that you fit insurance approved deadlocks to secure your premises at night and when DoorFlow is not in use. NetNodes does not accept any liability for loss associated with any breach in site security.
 
 o.	Questions about the Terms of Service should be sent to support@netnodes.net
- 

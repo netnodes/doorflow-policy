@@ -1,3 +1,6 @@
+---
+go_back: true
+---
 
 ## Privacy Policy
 
