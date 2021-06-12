@@ -4,7 +4,7 @@ go_back: true
 
 ## Developer Terms of Use
 
-###1. Welcome to the DoorFlow Developer Platform!
+### 1. Welcome to the DoorFlow Developer Platform!
 
 Welcome to the DoorFlow Developer Platform! NetNodes Limited and its affiliates (referred to as "NetNodes", “DoorFlow”, “we”, “our” or “us”) have created these Developer Terms and Conditions (these “Terms”) so that developers like you can enjoy the benefits of our Developer Platform while protecting both DoorFlow’s and its users’ rights. By clicking on “I agree” (or a similar box or button) or using the Developer Platform, you agree to be bound by these terms. You may not use the Developer Platform if you do not agree to these Terms. In these Terms, you are referred to as “Developer” or “you”. If you are agreeing to these terms not as an individual but on behalf of your company, then “Developer” or “you” means your company and you are binding your company to these Terms.
 
@@ -16,11 +16,11 @@ These Terms govern your access to and use of our APIs, SDKs, app keys and access
 
 ### 3. Registration
 
-To access the Developer Platform, you must follow the registration process established by DoorFlow. DoorFlow may approve or deny access to the Developer Platform in its sole discretion. When you register, you may be subject to DoorFlow’s standard Terms of Use and Privacy Policy at https://www.doorflow.com/about/terms/ and https://www.doorflow.com/about/privacy/ (“DoorFlow Service Terms”), as well as any additional registration terms specified by DoorFlow.
+To access the Developer Platform, you must follow the registration process established by DoorFlow. DoorFlow may approve or deny access to the Developer Platform in its sole discretion. When you register, you may be subject to DoorFlow’s standard [Terms of Service](https://policy.doorflow.com/terms_of_service) and [Privacy Policy](https://policy.doorflow.com/privacy_policy) (“DoorFlow Service Terms”), as well as any additional registration terms specified by DoorFlow.
 
 ### 4. Your Use Rights
 
-Subject to these Terms, you may use the Developer Platform solely to enable Your Products to access or interface with the DoorFlow Service. Your use must be as permitted in our Documentation and is subject to call, usage and other limits as described at https://developer.doorflow.com/docs (as may be modified from time to time, and which are incorporated into these Terms) or as we otherwise notify you. All of your rights are non-assignable, non-transferrable, and non-sublicenseable.
+Subject to these Terms, you may use the Developer Platform solely to enable Your Products to access or interface with the DoorFlow Service. Your use must be as permitted in our Documentation and is subject to call, usage and other limits as described in the [developer documentation](https://developer.doorflow.com/docs) (as may be modified from time to time, and which are incorporated into these Terms) or as we otherwise notify you. All of your rights are non-assignable, non-transferrable, and non-sublicenseable.
 
 Your use within these Use Rights are permitted “free-of-charge” up to, but not to exceed, the DoorFlow API limits and DoorFlow Customer limits set forth above and in associated documentation. DoorFlow reserves the rights to modify or amend this policy, in its sole discretion, at any time
 
@@ -36,7 +36,7 @@ While we may provide you with support or modifications for the Developer Platfor
 
 #### Publicity
 
-You may promote Your Application, including talking to traditional and online media and your users about Your Application, but you may not issue any formal press release via traditional or online media referring to DoorFlow without DoorFlow’s prior written consent. You must conduct all such activities truthfully and without implying that Your Application is created, sponsored, or endorsed by DoorFlow (or otherwise embellishing your relationship with DoorFlow) and you may not make any legal representations, guarantees or warranties on behalf of DoorFlow or with respect to the Developer Platform or the DoorFlow Service. If You become aware that any public-facing articles are being developed by independent publications or authors connecting Your Application to DoorFlow or to NetNodes, then you agree to immediately inform DoorFlow at [hello@netnodes.net].
+You may promote Your Application, including talking to traditional and online media and your users about Your Application, but you may not issue any formal press release via traditional or online media referring to DoorFlow without DoorFlow’s prior written consent. You must conduct all such activities truthfully and without implying that Your Application is created, sponsored, or endorsed by DoorFlow (or otherwise embellishing your relationship with DoorFlow) and you may not make any legal representations, guarantees or warranties on behalf of DoorFlow or with respect to the Developer Platform or the DoorFlow Service. If You become aware that any public-facing articles are being developed by independent publications or authors connecting Your Application to DoorFlow or to NetNodes, then you agree to immediately inform DoorFlow at [hello@doorflow.com].
 
 DoorFlow may publicly refer to you, orally or in writing, as a user of the Developer Platform. We may also publish your Brand Features (with or without a link to Your Application) on our websites, in press releases, and in promotional materials without your prior consent.
 
