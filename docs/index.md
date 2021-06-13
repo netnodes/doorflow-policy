@@ -13,6 +13,7 @@
 
 * [DoorFlow Terms of Service](terms_of_service)
 * [DoorFlow Service Level Agreement (SLA)](service_level_agreement)
+* [DoorFlow Developer Terms of Use](developer_terms)
 * [Use of Cookies](cookies)
 
 ## Related links
