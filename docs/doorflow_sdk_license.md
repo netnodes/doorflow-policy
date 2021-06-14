@@ -2,20 +2,19 @@
 go_back: true
 ---
 
-##NETNODES ‘Click through’ End User License Agreement for DoorFlow Software Development Tool Kit (DoorFlow SDK) Use
+## ‘Click through’ End User License Agreement for DoorFlow Software Development Tool Kit (DoorFlow SDK) Use
 
-###NETNODES LIMITED
-LIMITED INTERNAL EVALUATION AGREEMENT
+### NETNODES LIMITED LIMITED INTERNAL EVALUATION AGREEMENT
 
 IMPORTANT-READ CAREFULLY: BY CLICKING THE "I ACCEPT" BUTTON OR USING THE LICENSED PRODUCT PROVIDED HEREUNDER, YOU AS THE “LICENSEE” AGREE TO ALL THE TERMS OF NETNODES LIMITED (“NETNODES”) REGARDING LICENSEE'S USE OF THE LICENSED PRODUCT. IF LICENSEE DOES NOT AGREE WITH ALL OF THESE TERMS, DO NOT INSTALL, COPY OR OTHERWISE USE THE LICENSED PRODUCT, CLICK ON THE "I DISAGREE" BUTTON AND THE INSTALLATION PROCESS FOR THE LICENSED PRODUCT WILL NOT CONTINUE AND LICENSEE WILL NOT BE ABLE TO USE THE LICENSED PRODUCT.
 
-1.0 DEFINITIONS
+### 1. Definitions
 
 "Licensed Product" means the DoorFlow SDK, including, without limitation, associated hardware product, any sample cards or media, sample code, APIs, drivers, any user manuals, technical specifications, and other documentation, whether in hard copy or digital form, provided to Licensee by NetNodes under this Agreement.
 
 "Evaluation Purpose" means Licensee’s internal evaluation of the suitability of incorporating or bundling the Licensed Product with Licensee's products and internal testing and development of product which utilizes and interoperates with the Licensed Product.
 
-2.0 LIMITED LICENSE
+### 2. Limited License
 
 2.1 Subject to and conditioned upon Licensee’s compliance with the terms of this Agreement, NetNodes grants to Licensee, a non-exclusive, non-transferable, royalty-free and limited license to view, install and use the Licensed Product internally for the Evaluation Purposes only.
 
@@ -23,7 +22,7 @@ IMPORTANT-READ CAREFULLY: BY CLICKING THE "I ACCEPT" BUTTON OR USING THE LICENSE
 
 2.3 The sample code, API's and/or other software provided under this Agreement are distributed to Licensee in aggregation with various third party software ("Third Party Software"). The Third Party Software is distributed to Licensee under the terms of various "open source" license agreements which are incorporated herein by reference. Licensee agrees that it will comply with the terms of such Third Party Software licenses. Except for Sections 7.0 and 8.2 below, the terms of this Agreement do not apply to such Third Party Software. Please review the notices file that accompanies the Licensed Product for these notices and requirements.
 
-3.0 LICENSE RESTRICTIONS AND OWNERSHIP
+### 3. License Restrictions and Ownership
 
 3.1 Except as expressly permitted in Section 2.0, above, Licensee may not duplicate Licensed Product other than for a single copy of Licensed Product for archival purposes only. Licensee agrees to reproduce any copyright and other proprietary right notices on any copies.
 
@@ -37,11 +36,11 @@ IMPORTANT-READ CAREFULLY: BY CLICKING THE "I ACCEPT" BUTTON OR USING THE LICENSE
 
 3.6 Risk of loss of or damage to the Licensed Product transfers to Licensee upon delivery of the Licensed Product, except for loss or damage caused by NetNodes, its employees, agents or subcontractors.
 
-4.0 SUPPORT AND UPDATES
+### 4. Support and Updates
 
 [NetNodes is under no obligation to provide Licensee with updates or error corrections of the Licensed Product (collectively "Product Updates"). If NetNodes, at its sole option, supplies Product Updates to Licensee, the Product Updates will be considered part of Licensed Product, and subject to the terms of this Agreement.
 
-5.0 TERM AND TERMINATION OF AGREEMENT
+### 5. Term and Termination of Agreement
 
 5.1 This Agreement will be deemed to commence on the date on which Developer receives Licensed Product (the "Effective Date") and will expire two (2) years from the Effective Date ("Evaluation Period"), unless terminated earlier as provided herein.
 
@@ -53,7 +52,7 @@ IMPORTANT-READ CAREFULLY: BY CLICKING THE "I ACCEPT" BUTTON OR USING THE LICENSE
 
 5.5 The following sections of this Agreement shall survive and will remain in effect after termination or expiration of this Agreement: 1, and 4 -11.
 
-6.0 CONFIDENTIAL INFORMATION
+### 6. Confidential Information
 
 6.1 For purposes of this Agreement, "Confidential Information" means:
 
@@ -72,27 +71,27 @@ Licensee may not disclose or use Confidential Information, except for the purpos
 
 6.3 Licensee must restrict access to Confidential Information to its employees or contractors with a need for this access to perform their employment or contractual obligations and who have agreed in writing to be bound by a confidentiality obligation, which incorporates the protections and restrictions substantially as set forth in this Agreement.
 
-7.0 DISCLAIMER OF WARRANTY
+### 7. Disclaimer of Warranty
 
 LICENSED PRODUCT IS PROVIDED "AS IS". ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS, AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT SUCH DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.
 
-8.0 LIMITATION OF LIABILITY
+### 8. Limitation of Liability
 
 8.1 Licensee acknowledges that the Licensed Product may be experimental and that the Licensed Product may have defects or deficiencies, which cannot or will not be corrected by NetNodes. Licensee will hold NetNodes harmless from any claims based on Licensee's use of the Licensed Product for any purposes other than those of the Evaluation Purpose, and from any claims that later versions or releases of any Licensed Product furnished to Licensee are incompatible with the Licensed Product provided to Licensee under this Agreement. Licensee is responsible for determining whether the Licensed Product will be suitable for Licensee's intended use or application and will achieve Licensee's intended results.
 
 8.2 TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL NETNODES BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGE IN CONNECTION WITH OR ARISING OUT OF THIS AGREEMENT (INCLUDING LOSS OF BUSINESS, REVENUE, PROFITS, USE, DATA OR OTHER ECONOMIC ADVANTAGE), HOWEVER IT ARISES, WHETHER FOR BREACH OR IN TORT, EVEN IF NETNODES HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. ADDITIONALLY, IN NO EVENT SHALL NETNODES' LICENSORS BE LIABLE FOR ANY DAMAGES OF ANY KIND.
 
-9.0 U.S. GOVERNMENT RESTRICTED RIGHTS
+### 9. U.S. Government Restricted Terms
 
 If this technology is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then the Government's rights in the Licensed Product and accompanying documentation shall be only as set forth in this Agreement; this is in accordance with 48 C.F.R. 227.7202-4 (for Department of Defense (DOD) acquisitions) and with 48 C.F.R. 2.101 and 12.212 (for non-DOD acquisitions).
 
-10.0 PUBLICITY
+### 10. Publicity
 
 10.1 Neither party shall disclose the terms and conditions of this Agreement to any third party, except as may be required to implement and enforce the terms of this Agreement, or as may be required by legal procedure or by law. Neither party shall, without first obtaining the written consent of the other party, announce this Agreement in a press release or other promotional material. Licensee may refer to the Licensed Product by the associated NetNodes Trademarks (as defined below), provided that such reference is truthful and not misleading and complies with Section 11.2 below.
 
 10.2 "NetNodes Trademarks" means all names, marks, logos, designs, trade dress, and other brand designations used by NetNodes in connection with NetNodes products. Licensee is granted no right, title, or license to, or interest in, any NetNodes' Trademarks.
 
-11.0 GENERAL TERMS
+### 11. General Terms
 
 11.1 Any action relating to or arising out of this Agreement will be governed by and construed in accordance with English Law and the parties hereto submit to the jurisdiction of the English Courts.
 
