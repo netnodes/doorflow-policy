@@ -3,7 +3,7 @@ go_back: true
 ---
 
 ## General Terms and Conditions
-​
+
 ### Definitions
 
 Any order placed by a Customer shall constitute an offer to Contract subject to the Standard Terms and Conditions herein contained and unless expressly agreed in writing by an Authorised representative of NetNodes no addition to, or variation from, these Standard Terms and Conditions shall apply. These Standard Terms and Conditions will negate the Customer’s own Terms and Conditions as such.
