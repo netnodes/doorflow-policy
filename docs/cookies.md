@@ -11,7 +11,7 @@ Introduction
 
 This Cookie Notice (“Notice“) explains how NetNodes Limited. (“NetNodes,” “we,” “us,” and “our“) use cookies and similar technologies to recognize you when you visit, interact with or use any of our websites (such as [www.netnodes.net](https://www.netnodes.net) or [www.doorflow.com](https://www.doorflow.com)), online advertisements or marketing communications (collectively for the purposes of this Notice, the “Sites“). This Notice explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
-We may use cookies and similar technologies to collect personal information, or information that becomes personal information if we combine it with other information. In such cases, the [Data Protection & Privacy](https://policy.netnodes.net/privacy_policy) policy will apply in addition to this Cookie Notice.
+We may use cookies and similar technologies to collect personal information, or information that becomes personal information if we combine it with other information. In such cases, the [Data Protection & Privacy](https://policy.doorflow.com/privacy_policy) policy will apply in addition to this Cookie Notice.
 
 ### What cookies do we use and why?
 
