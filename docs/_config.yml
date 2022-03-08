@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: DoorFlow Policy
 logo: /assets/images/logo.svg
+favicon: /assets/images/logo.svg
+error-500: /assets/images/500.svg
+font-regular-woff: /assets/fonts/Averta-Regular.woff
+font-regular-ttf: /assets/fonts/Averta-Regular.ttf
+font-bold-woff: /assets/fonts/Averta-Bold.ttf
+font-bold-ttf: /assets/fonts/Averta-Bold.ttf
