@@ -18,11 +18,11 @@
 }
 
 :root {
-  --color__primary: 41,45,51;
-  --color__secondary: 85,85,85;
-  --color__accent: 72,131,227;
+  --color__primary: 14,38,83;
+  --color__secondary: 33, 36, 44;
+  --color__accent: 56, 131, 227;
   --font__regular: 'Averta Regular';
-  --font__bold: 'Averta Regular';
+  --font__bold: 'Averta Bold';
 }
 
 body {
