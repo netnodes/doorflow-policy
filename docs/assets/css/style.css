@@ -2,15 +2,31 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "Averta Regular";
+  font-weight: 300;
+  src:
+    url("/assets/fonts/Averta-Regular.ttf") format("woff"),
+    url("/assets/fonts/Averta-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Averta Bold";
+  font-weight: 300;
+  src:
+    url("/assets/fonts/Averta-Bold.ttf") format("woff"),
+    url("/assets/fonts/Averta-Bold.ttf") format("truetype");
+}
+
 :root {
   --color__primary: 41,45,51;
   --color__secondary: 85,85,85;
   --color__accent: 72,131,227;
-  --font: 'Ubuntu';
+  --font__regular: 'Averta Regular';
+  --font__bold: 'Averta Regular';
 }
 
 body {
-  font-family: var(--font);
+  font-family: var(--font__regular);
 }
 
 html,
@@ -20,7 +36,7 @@ body {
   height: 100%;
   font-size: 8px;
   font-weight: 300;
-  font-family: var(--font);
+  font-family: var(--font__regular);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: rgba(var(--color__primary), 1);
@@ -69,20 +85,24 @@ h1 {
   margin: 0;
   font-size: 4rem;
   font-weight: bold;
+  font-family: var(--font__bold);
 }
 
 h2 {
   font-size: 2.5rem;
   font-weight: bold;
+  font-family: var(--font__bold);
 }
 
 h3 {
   font-size: 2rem;
   font-weight: bold;
+  font-family: var(--font__bold);
 }
 
 h4 {
   font-weight: bold;
+  font-family: var(--font__bold);
   font-size: 1.8rem;
 }
 
