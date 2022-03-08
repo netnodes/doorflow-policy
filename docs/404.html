@@ -3,22 +3,22 @@
 <html>
 <head>
   <title>DoorFlow</title>
-  <link rel="shortcut icon" href="{{site.favicon | relative_url}}" >
+  <link rel="shortcut icon" href="/assets/fonts/Averta-Bold.ttf" >
   <style type="text/css">
     * { box-sizing: border-box; }
     @font-face {
       font-family: "Averta Regular";
       font-weight: 300;
       src:
-        url("{{site.font-regular-woff | relative_url}}") format("woff"),
-        url("{{site.font-regular-ttf | relative_url}}") format("truetype");
+        url("/assets/fonts/Averta-Bold.ttf") format("woff"),
+        url("/assets/fonts/Averta-Bold.ttf") format("truetype");
     }
     @font-face {
       font-family: "Averta Bold";
       font-weight: 300;
       src:
-        url("{{site.font-bold-woff | relative_url}}") format("woff"),
-        url("{{site.font-bold-ttf | relative_url}}") format("truetype");
+        url("/assets/fonts/Averta-Bold.ttf") format("woff"),
+        url("/assets/fonts/Averta-Bold.ttf") format("truetype");
     }
     body, html{
       height:100%;
@@ -63,10 +63,10 @@
 
 <body>
   <div class="container">
-    <a href="/"><img src="{{site.logo | relative_url}}" alt="doorflow logo"></a>
+    <a href="/"><img src="/assets/images/logo.svg" alt="doorflow logo"></a>
 
     <figure>
-      <img src="{{site.error-500 | relative_url}}" width="320">
+      <img src="/assets/images/500.svg" width="320">
     </figure>
 
     <h1>Oops, we've found an error</h1>
