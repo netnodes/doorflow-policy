@@ -34,8 +34,7 @@ function updateCookieDecision(decision) {
     decisionText = "You have not allowed us to monitor your activity on this site."
   }
 
-  if( document.querySelector( 'cookie-status' ) ) {
-    console.log( decisionText )
+  if( document.querySelector( '.cookie-status' ) ) {
     document.querySelector( '.cookie-status p' ).textContent = decisionText;
   }
 }
