@@ -33,6 +33,7 @@ function updateCookieDecision(decision) {
   }
 
   if( document.querySelector( 'cookie-status' ) ) {
+    console.log( decisionText )
     document.querySelector( '.cookie-status p' ).textContent = decisionText;
   }
 }
