@@ -1,6 +1,7 @@
 function onPageLoad() {
 
   let cookieConsent = getCookieByName( 'cookieConsent' );
+  updateCookieDecision(cookieConsent);
 
   document.querySelector('button.dark').addEventListener("click", accept);
   document.querySelector('button.light').addEventListener("click", decline);
@@ -10,8 +11,6 @@ function onPageLoad() {
   }
 
   if ( cookieConsent === 'OK' || cookieConsent === 'NotOK' ) {
-
-    updateCookieDecision(cookieConsent);
 
     if ( cookieConsent === 'NotOK') {
       removeCookies();
