@@ -29,6 +29,15 @@
       </header>
       <section>
 
+        {% if page.cookies %}
+        <div class="cookie-status">
+          <p></p>
+          <button class="review-cookie-decision">
+            Review your decision
+          </button>
+        </div>
+        {% endif %}
+
         {{ content }}
 
       </section>

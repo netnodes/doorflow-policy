@@ -175,6 +175,19 @@ section {
   background-color: #E5E7EB;
 }
 
+.hidden {
+  display: none;
+}
+
+.cookie-status {
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.cookie-status p {
+  margin-bottom: 8px;
+}
+
 .cookies h3 {
   font-size: 20px;
   line-height: 28px;
@@ -192,7 +205,8 @@ section {
   margin-top: 16px;
 }
 
-.cookies div button {
+.cookies div button,
+button.review-cookie-decision {
   display: inline-flex;
   align-items: center;
   border-radius: 9999px;
@@ -207,6 +221,7 @@ section {
   padding-left: 16px;
   padding-right: 16px;
   border: none;
+  cursor: pointer;
 }
 
 .cookies div button.dark {
