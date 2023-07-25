@@ -1,7 +1,6 @@
 function onPageLoad() {
 
   let cookieConsent = getCookieByName( 'cookieConsent' );
-  var bannerTarget = document.querySelector( '.cookies' );
 
   document.querySelector('button.dark').addEventListener("click", accept);
   document.querySelector('button.light').addEventListener("click", decline);
@@ -12,23 +11,23 @@ function onPageLoad() {
       removeCookies();
     }
 
-    bannerTarget.classList.add('hidden');
+    document.querySelector( '.cookies' ).classList.add('hidden');
 
   } else {
 
-    bannerTarget.classList.remove('hidden');
+    document.querySelector( '.cookies' ).classList.remove('hidden');
 
   }
 
 }
 
 function accept() {
-  bannerTarget.classList.add('hidden');
+  document.querySelector( '.cookies' ).classList.add('hidden');
   document.cookie = 'cookieConsent=OK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=doorflow.com; path=/';
 }
 
 function decline() {
-  bannerTarget.classList.add('hidden');
+  document.querySelector( '.cookies' ).classList.add('hidden');
   document.cookie = 'cookieConsent=NotOK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=doorflow.com; path=/';
   removeCookies();
 }
