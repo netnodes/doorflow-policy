@@ -224,7 +224,8 @@ button.review-cookie-decision {
   cursor: pointer;
 }
 
-.cookies div button.dark {
+.cookies div button.dark,
+button.review-cookie-decision {
   background: rgb(14, 38, 83);
   color: #fff;
 }
