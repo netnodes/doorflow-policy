@@ -160,3 +160,62 @@ header {
 section {
   padding-bottom: 4rem;
 }
+
+.cookies {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 20;
+  padding: 2rem;
+  margin: 0.5rem;
+  margin-top: 1rem;
+  border-radius: 0.75rem;
+  border-width: 1px;
+  border-color: #ffffff;
+  background-color: #E5E7EB;
+}
+
+.cookies h3 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.cookies div {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.cookies div button {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 9999px;
+  padding: 1rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  line-height: 1;
+  text-decoration-line: none;
+  padding: 0.75rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.cookies div button.dark {
+  background: rgb(14, 38, 83);
+  color: #fff;
+}
+
+.cookies div button.light {
+  color: rgb(14, 38, 83);
+  background: #fff;
+}
+
+@media (min-width: 640px) {
+  .cookies {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    max-width: 24rem;
+  }
+}

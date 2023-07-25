@@ -1,5 +1,6 @@
 ---
 go_back: true
+cookies: true
 ---
 
 
