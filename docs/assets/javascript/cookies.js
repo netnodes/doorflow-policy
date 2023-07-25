@@ -22,11 +22,13 @@ function onPageLoad() {
 }
 
 function accept() {
+  console.log('accept')
   document.querySelector( '.cookies' ).classList.add('hidden');
   document.cookie = 'cookieConsent=OK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=doorflow.com; path=/';
 }
 
 function decline() {
+  console.log('decline')
   document.querySelector( '.cookies' ).classList.add('hidden');
   document.cookie = 'cookieConsent=NotOK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=doorflow.com; path=/';
   removeCookies();
