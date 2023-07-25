@@ -178,6 +178,11 @@ section {
 .cookies h3 {
   font-size: 20px;
   line-height: 28px;
+  margin: 0;
+}
+
+.cookies p {
+  margin-top: 16px;
 }
 
 .cookies div {
@@ -200,6 +205,7 @@ section {
   padding: 12px;
   padding-left: 16px;
   padding-right: 16px;
+  border: none;
 }
 
 .cookies div button.dark {
