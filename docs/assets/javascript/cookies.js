@@ -1,7 +1,7 @@
-let cookieConsent = getCookieByName( 'cookieConsent' );
-let bannerTarget = document.querySelector( '.cookies' );
-
 function onPageLoad() {
+
+  let cookieConsent = getCookieByName( 'cookieConsent' );
+  let bannerTarget = document.querySelector( '.cookies' );
 
   document.querySelector('button.dark').addEventListener("click", accept);
   document.querySelector('button.light').addEventListener("click", decline);
