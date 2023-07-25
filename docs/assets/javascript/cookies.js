@@ -3,6 +3,9 @@ let bannerTarget = document.querySelector( '.cookies' );
 
 function onPageLoad() {
 
+  document.querySelector('button.dark').addEventListener("click", accept);
+  document.querySelector('button.light').addEventListener("click", decline);
+
   if ( cookieConsent === 'OK' || cookieConsent === 'NotOK' ) {
 
     if ( cookieConsent === 'NotOK') {
@@ -74,6 +77,4 @@ function removeCookies() {
 
 }
 
-document.querySelector('button.dark').addEventListener("click", accept);
-document.querySelector('button.light').addEventListener("click", decline);
 document.addEventListener("DOMContentLoaded", onPageLoad);

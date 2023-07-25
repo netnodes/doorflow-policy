@@ -166,23 +166,23 @@ section {
   bottom: 0;
   left: 0;
   z-index: 20;
-  padding: 2rem;
-  margin: 0.5rem;
-  margin-top: 1rem;
-  border-radius: 0.75rem;
+  padding: 32px;
+  margin: 8px;
+  margin-top: 16px;
+  border-radius: 12px;
   border-width: 1px;
   border-color: #ffffff;
   background-color: #E5E7EB;
 }
 
 .cookies h3 {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
+  font-size: 20px;
+  line-height: 28px;
 }
 
 .cookies div {
   display: flex;
-  gap: 1rem;
+  gap: 16px;
   align-items: center;
 }
 
@@ -190,16 +190,16 @@ section {
   display: inline-flex;
   align-items: center;
   border-radius: 9999px;
-  padding: 1rem;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
+  padding: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 14px;
+  line-height: 20px;
   line-height: 1;
   text-decoration-line: none;
-  padding: 0.75rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .cookies div button.dark {
@@ -214,8 +214,8 @@ section {
 
 @media (min-width: 640px) {
   .cookies {
-    margin-bottom: 1rem;
-    margin-left: 1rem;
-    max-width: 24rem;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    max-width: 384px;
   }
 }
