@@ -4,7 +4,10 @@ function onPageLoad() {
 
   document.querySelector('button.dark').addEventListener("click", accept);
   document.querySelector('button.light').addEventListener("click", decline);
-  document.querySelector('button.review-cookie-decision').addEventListener("click", reset);
+
+  if( document.querySelector('button.review-cookie-decision') ) {
+    document.querySelector('button.review-cookie-decision').addEventListener("click", reset);
+  }
 
   if ( cookieConsent === 'OK' || cookieConsent === 'NotOK' ) {
 
