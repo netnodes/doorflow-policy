@@ -12,13 +12,13 @@ Violation of any of the terms below will result in the termination of your Accou
 
 ### 1. Account Terms
 
- a.	You must be 13 years or older to use this Service.
- b.	You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
- c.	You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
- d.	Your login may only be used by one person – a single login shared by multiple people is not permitted. You may create separate logins for as many people as your plan allows.
- e.	You are responsible for maintaining the security of your account and password. DoorFlow cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
- f.	You are responsible for all Content posted and activity that occurs under your account (even when Content is posted by others who have accounts under your account).
- g.	You may not use the Service for any illegal or unauthorised purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).
+ a.  You must be 13 years or older to use this Service.
+ b.  You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+ c.  You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
+ d.  Your login may only be used by one person – a single login shared by multiple people is not permitted. You may create separate logins for as many people as your plan allows.
+ e.  You are responsible for maintaining the security of your account and password. DoorFlow cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+ f.  You are responsible for all Content posted and activity that occurs under your account (even when Content is posted by others who have accounts under your account).
+ g.  You may not use the Service for any illegal or unauthorised purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).
 
 ### 2. API Terms
 
