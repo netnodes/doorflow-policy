@@ -60,7 +60,7 @@ d. DoorFlow, in its sole discretion, has the right to suspend or terminate your 
 
 a. DoorFlow reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.  
 
-b. Prices of all Services, including but not limited to monthly subscription plan fees to the Service, are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the DoorFlow Site ([doorflow.com](http://doorflow.com/)) or the Service itself.  
+b. Prices of all Services, including but not limited to monthly subscription plan fees to the Service, are subject to change upon 14 days notice from us. Such notice may be provided at any time by posting the changes to the DoorFlow Site ([doorflow.com](http://doorflow.com/)) or the Service itself.  
 
 c. DoorFlow shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Service.  
 
