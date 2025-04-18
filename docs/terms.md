@@ -11,7 +11,7 @@ Any order placed by a Customer shall constitute an offer to Contract subject to 
 * "CUSTOMER" means the person, firm or organisation placing an order for products or services with NetNodes Limited.
 * "PRODUCT" means any service, product, item of equipment, hardware, software, microchip, semiconductor (or any other item containing, using or dependant upon any of the foregoing) supplied by NetNodes Limited under this agreement including, in the case of service, any hardware or software provided to the customer by NetNodes Limited as part of such service or used by NetNodes Limited as part of such service.
 * "SERVICE" means the services to be provided under this agreement as described in the services part of this document or used by NetNodes Limited as part of such service.
-* "NetNodes" means NetNodes Limited, whose registered office is at 7 Bell Yard, London, WC2A 2JR, United Kingdom, the Supplier
+* "NetNodes" means NetNodes Limited, whose registered office is at Coed Y Dwr, Oldwalls SA3 1HA, the Supplier
 * "WE, US, OUR" etc refer to NetNodes.
 * "YOU, YOURS" etc. refer to the CUSTOMER.
 
