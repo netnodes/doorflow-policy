@@ -1,142 +1,177 @@
 ---
 go_back: true
+redirect_from:
+  # The previous DoorFlow notice, which this replaces. /privacy is the master
+  # path across the estate, in keeping with /cookies and /terms. The old path
+  # is linked from dc-web and doorflow-knowledge-base footers, and from
+  # dc-web's /about/privacy redirect.
+  - /privacy_policy
 ---
 
-## Privacy Policy
+## Privacy Notice
 
-### 1. Introduction
-This document sets out the obligations of NetNodes Limited with regard to data protection and the rights of people with whom it works in respect of their personal data under the Data Protection Act 1998 (“the Act”).
+_Last updated: September 2026_
 
-This Policy shall set out procedures which are to be followed when dealing with personal data.  The procedures set out herein must be followed by the Company, its employees, contractors, agents, consultants, partners or other parties working on behalf of the Company.
+### **Introduction**
 
-The Company views the correct and lawful handling of personal data as key to its success and dealings with third parties.  The Company shall ensure that it handles all personal data correctly and lawfully.
+This Privacy Notice explains how **NetNodes Limited** (“NetNodes”, “we”, “our”, “us”), trading as **DoorFlow**, collects, uses and protects personal information when you use our websites, applications and access control services (collectively, the “Services”).
 
+This notice applies globally to users in the **UK, EU/EEA, the United States** and other regions.
 
-### 2. The Data Protection Principles
-This Policy aims to ensure compliance with the Act.  The Act sets out eight principles with which any party handling personal data must comply.  All personal data:
+DoorFlow is used by organisations to control access to their buildings. When an organisation stores or manages information about its own people in DoorFlow, NetNodes acts as a **Data Processor** and that organisation is the **Data Controller**.
 
-- 2.1	Must be processed fairly and lawfully (and shall not be processed unless certain conditions are met);
+### 1. Who We Are
 
-- 2.2	Must be obtained only for specified and lawful purposes and shall not be processed in any manner which is incompatible with those purposes;
+NetNodes Limited is the Data Controller for data we collect directly - for example website usage, account registration and support enquiries.
 
-- 2.3	Must be adequate, relevant and not excessive with respect to the purposes for which it is processed;
+DoorFlow customers are Data Controllers for the information they hold about their own cardholders, staff and visitors within DoorFlow.
 
-- 2.4	Must be accurate and, where appropriate, kept up-to-date;
+Our [Data Processing Agreement](https://policy.netnodes.net/dpa) governs our role as Processor, and our [sub-processors](https://policy.netnodes.net/subprocessors) are published on the corporate site.
 
-- 2.5	Must be kept for no longer than is necessary in light of the purpose(s) for which it is processed;
+### 2. Information We Collect
 
-- 2.6	Must be processed in accordance with the rights of data subjects under the Act;
+#### A. Information You Provide
 
-- 2.7	Must be protected against unauthorised or unlawful processing, accidental loss, destruction or damage through appropriate technical and organisational measures; and
+**Account information**
 
-- 2.8	Must not be transferred to a country or territory outside of the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
+- Name, business details, email address, telephone number, login credentials.
 
-### 3. Rights of Data Subjects
-Under the Act, data subjects have the following rights:
+**Payment information**
 
-- The right to be informed that their personal data is being processed;
+- Handled by third-party payment processors. NetNodes does not store full payment card numbers.
 
-- The right to access any of their personal data held by the Company within 40 days of making a request;
+**Communications**
 
-- The right to prevent the processing of their personal data in limited circumstances; and
+- Support messages, contact details, attachments, and confirmations that an email from us has been opened.
 
-- The right to rectify, block, erase or destroy incorrect personal data.
+**Data entered by DoorFlow customers**
 
-### 4.	Personal Data
-Personal data is defined by the Act as data which relates to a living individual who can be identified from that data or from that data and other information which is in the possession of, or is likely to come into the possession of, the data controller, and includes any expression of opinion about the individual and any indication of the intentions of the data controller or any other person in respect of the individual.
-The Act also defines “sensitive personal data” as personal data relating to the racial or ethnic origin of the data subject; their political opinions; their religious (or similar) beliefs; trade union membership; their physical or mental health condition; their sexual life; the commission or alleged commission by them of any offence; or any proceedings for any offence committed or alleged to have been committed by them, the disposal of such proceedings or the sentence of any court in such proceedings.
-The Company only holds personal data which is directly relevant to its dealings with a given data subject.  That data will be held and processed in accordance with the data protection principles and with this Policy.
+DoorFlow allows a customer to store basic personal information about an individual so that security events can be correlated to the right person. This may include:
 
-### 5.	Processing Personal Data
-Any and all personal data collected by the Company (including that detailed in Section 4 of this Policy) is collected in order to ensure that the Company can facilitate efficient transactions with third parties including, but not limited to, its customers, partners, associates and affiliates and efficiently manage its employees, contractors, agents and consultants.  Personal data shall also be used by the Company in meeting any and all relevant obligations imposed by law.
+- Name
+- Email address
+- Photograph
+- Credential details, such as an access card, fob or PIN
+- Site, door and permission assignments
 
+This information is controlled by the customer, not by us.
 
-Personal data may be disclosed within the Company. Personal data may be passed from one department to another in accordance with the data protection principles and this Policy.  Under no circumstances will personal data be passed to any department or any individual within the Company that does not reasonably require access to that personal data with respect to the purpose(s) for which it was collected and is being processed.
+#### B. Information We Collect Automatically
 
-The Company shall ensure that:
+- **Access control event data** - for example, that a particular credential was used at a particular door at a particular time.
+- **Administrative and API logs** - the actions taken by system administrators and API users.
+- **Device status and settings** - the state and configuration of controllers and readers connected to DoorFlow.
+- **Technical information** - IP address, browser type and operating system.
+- Cookie data, where you have consented. Our [Use of Cookies](cookies) notice sets out what is stored and by whom.
 
-- All personal data collected and processed for and on behalf of the Company by any party is collected and processed fairly and lawfully;
+#### C. Measurement of our websites
 
-- Data subjects are made fully aware of the reasons for the collection of personal data and are given details of the purpose for which the data will be used;
+We measure how our public websites are used, so that we can see what is working and improve them.
 
-- Personal data is only collected to the extent that is necessary to fulfil the stated purpose(s);
+We treat this at the level of the **organisation, not the individual**. In particular, we may use the IP address a request came from, on its own or matched against a list of address ranges we associate with customers and prospective customers, to record that an organisation visited - never to identify a person. Any such match is treated as an indication rather than a fact, because shared offices, mobile networks and VPNs all place many people behind one address.
 
-- All personal data is accurate at the time of collection and kept accurate and up-to-date while it is being held and/or processed;
+Where we use analytics cookies for this, they are set only after you have consented, and are described in our [Use of Cookies](cookies) notice.
 
-- No personal data is held for any longer than necessary in light of the stated purpose(s);
+We rely on legitimate interests for this measurement. You can object at any time using the contact details in section 13, and you can decline analytics cookies without affecting your use of the Services.
 
-- All personal data is held in a safe and secure manner, taking all appropriate technical and organisational measures to protect the data;
+#### D. Information from Third Parties
 
-- All personal data is transferred using secure means, electronically or otherwise;
+- Identity providers
+- Integration and reseller partners
+- Publicly available sources
+- An IP geolocation service, used by the call-back widget on our website to offer you a telephone number in your own country
 
-- All data subjects can exercise their rights set out above in Section 3 and more fully in the Act.
+### 3. How We Use Information
 
-### 6.	Data Protection Procedures
-The Company shall ensure that all of its employees, contractors, agents, consultants, partners or other parties working on behalf of the Company comply with the following when processing and / or transmitting personal data:
+To:
 
-- All emails containing personal data must be encrypted;
+- Provide, operate and secure DoorFlow
+- Correlate access control events to the correct individual on a customer's behalf
+- Support integrations with door hardware and third-party systems
+- Improve the platform and our websites
+- Provide customer support
+- Process payments and calculate usage-based charges
+- Prevent abuse or fraud
+- Communicate important account notices and service messages
 
-- Personal data may be transmitted over secure networks only – transmission over unsecured networks is not permitted in any circumstances;
+Marketing communications are optional and require consent where the law requires it.
 
-- Personal data contained in the body of an email, whether sent or received, should be copied from the body of that email and stored securely.  The email itself should be deleted.  All temporary files associated therewith should also be deleted;
+Our staff may access customer data only in order to provide and support the Services, to prevent or address a service or technical problem, or where the law requires it.
 
-- Where Personal data is to be sent by facsimile transmission the recipient should be informed in advance of the transmission and should be waiting by the fax machine to receive the data;
+### 4. How We Share Information
 
-- Where Personal data is to be transferred in hardcopy form it should be passed directly to the recipient.  Using an intermediary is not permitted;
+We may share personal data with:
 
-- All hardcopies of personal data should be stored securely in a locked box, drawer, cabinet or similar;
+- **Sub-processors** - hosting, messaging and infrastructure partners, listed at [policy.netnodes.net/subprocessors](https://policy.netnodes.net/subprocessors)
+- **Analytics providers**, with consent where required
+- **Legal authorities**, when required
+- **Potential acquirers**, as part of a transaction
+- **Other parties**, only where the data is anonymised or aggregated
 
-- All electronic copies of personal data should be stored securely using passwords and suitable data encryption, 'where possible on a drive or server which cannot be accessed via the internet; and'
+**We do not, and never will,** sell personal data.
 
-- All passwords used to protect personal data should be changed regularly and should not use words or phrases which can be easily guessed or otherwise compromised.
+### 5. Legal Basis for Processing
 
-### 7.	Organisational Measures
-The Company shall ensure that the following measures are taken with respect to the collection, holding and processing of personal data:
+May include:
 
-- A designated officer (“the Designated Officer”) within the Company shall be appointed with the specific responsibility of overseeing data protection and ensuring compliance with the Act.
+- Contractual necessity
+- Legitimate interests, including securing the Services and measuring our websites as described in section 2C
+- Consent, where legally required
+- Legal obligations
+- Vital interests
 
-- All employees, contractors, agents, consultants, partners or other parties working on behalf of the Company are made fully aware of both their individual responsibilities and the Company’s responsibilities under the Act and shall be furnished with a copy of this Policy.
+DoorFlow customers determine the lawful basis for their own use of cardholder data.
 
-- All employees, contractors, agents, consultants, partners or other parties working on behalf of the Company handling personal data will be appropriately trained to do so.
+### 6. Your Rights (UK/EU/EEA)
 
-- All employees, contractors, agents, consultants, partners or other parties working on behalf of the Company handling personal data will be appropriately supervised.
+You may have rights to access, correct, delete, object to, restrict or port your data.
 
-- Methods of collecting, holding and processing personal data shall be regularly evaluated and reviewed.
+Requests about information held by a DoorFlow customer must be made to that customer, who is the Data Controller.
 
-- The Performance of those employees, contractors, agents, consultants, partners or other parties working on behalf of the Company handling personal data shall be regularly evaluated and reviewed.
+Requests about data we collect directly can be made to [**privacy@netnodes.net**](mailto:privacy@netnodes.net).
 
-- All employees, contractors, agents, consultants, partners or other parties working on behalf of the Company handling personal data will be bound to do so in accordance with the principles of the Act and this Policy by contract.  Failure by any employee to comply with the principles or this Policy shall constitute a disciplinary offence.  Failure by any contractor, agent, consultant, partner or other party to comply with the principles or this Policy shall constitute a breach of contract.  In all cases, failure to comply with the principles or this Policy may also constitute a criminal offence under the Act.
+### 7. Rights for California / US Users
 
-- All contractors, agents, consultants, partners or other parties working on behalf of the Company handling personal data must ensure that any and all of their employees who are involved in the processing of personal data are held to the same conditions as those relevant employees of the Company arising out of this Policy and the Act.
+We comply with relevant state-level privacy laws, including the CCPA and CPRA.
 
-- Where any contractor, agent, consultant, partner or other party working on behalf of the Company handling personal data fails in their obligations under this Policy that party shall indemnify and hold harmless the Company against any costs, liability, damages, loss, claims or proceedings which may arise out of that failure.
+You may have rights to access or delete your data, to request information about the categories of data we hold, and to opt out of its sale or sharing.
 
-### 8.	Access by Data Subjects
-A data subject may make a subject access request (“SAR”) at any time to see the information which the Company holds about them.
+We **do not and never will** sell your data.
 
-- SARs must be made in writing, accompanied by the correct fee.
+### 8. International Transfers
 
-- The Company currently requires a fee of £10 (the statutory maximum) with all SARs. A fee of £2 shall be required for access to a credit file.
-Upon receipt of a SAR the Company shall have a maximum period of 40 days within which to respond.  The following information will be provided to the data subject:
+Transfers outside the UK and EEA are protected by:
 
-	Whether or not the Company holds any personal data on the data subject;
+- Standard Contractual Clauses
+- Adequacy decisions
+- Additional safeguards where needed
 
-  - A description of any personal data held on the data subject;
+### 9. Security
 
-  - Details of what that personal data is used for;
+Security measures include:
 
-  - Details of any third-party organisations that personal data is passed to; and
+- Encryption
+- Access controls
+- Multi-factor authentication
+- Infrastructure hardening
+- Logging and monitoring
+- Periodic penetration testing
+- Review controls over sub-processors
 
-  - Details of any technical terminology or codes.
+### 10. Data Retention
 
-### 9. Notification to the Information Commissioner’s Office
-As a data controller, the Company is required to notify the Information Commissioner’s Office that it is processing personal data.  The Company is registered in the register of data controllers.
+We retain personal data only for as long as it is needed.
 
-Data controllers must renew their notification with the Information Commissioner’s Office on an annual basis.  Failure to notify constitutes a criminal offence.
-Any changes to the register must be notified to the Information Commissioner’s Office within 28 days of taking place.
+DoorFlow customers may set their own retention periods for cardholder and event data.
 
-The Designated Officer shall be responsible for notifying and updating the Information Commissioner’s Office.
+### 11. Children's Privacy
 
+DoorFlow is not intended for children under 16, or under the local minimum age where that is higher. We do not knowingly collect such information.
 
-### 10. Implementation of Policy
-This Policy shall be deemed effective as of 1 January 2012.  No part of this Policy shall have retroactive effect and shall thus apply only to matters occurring on or after this date.
+### 12. Changes to This Notice
+
+We may update this notice from time to time. When we do, we will revise the “Last updated” date, and material changes will be communicated appropriately.
+
+### 13. Contact Us
+
+If you have questions about this notice or about your personal data, please contact us at [privacy@netnodes.net](mailto:privacy@netnodes.net).
