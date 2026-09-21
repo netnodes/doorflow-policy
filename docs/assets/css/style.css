@@ -193,8 +193,8 @@ li {
   line-height: 3rem;
 }
 
-ul li,
-section ol li {
+ul > li,
+section ol > li {
   margin-top: 2rem;
 }
 
@@ -204,12 +204,12 @@ ul {
   padding-left: 0;
 }
 
-ul li {
+ul > li {
   position: relative;
   padding-left: 2rem;
 }
 
-ul li::before {
+ul > li::before {
   content: "";
   position: absolute;
   left: 0;
@@ -528,14 +528,20 @@ section ol {
   padding-left: 0;
 }
 
-ol li {
+section ol > li {
   counter-increment: number;
   display: table;
   line-height: 1.6;
   padding-left: 0;
 }
 
-section ol li::before {
+/* A list nested inside a numbered item needs room from the line above it. */
+section ol > li ul,
+section ol > li ol {
+  margin-top: 1rem;
+}
+
+section ol > li::before {
   content: counter(number) ".";
   display: table-cell;
   text-align: right;
