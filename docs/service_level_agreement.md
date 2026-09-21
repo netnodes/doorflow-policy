@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-## Service Level Agreement
+# Service Level Agreement
 
 Version 1.1 - July 2018
 
@@ -12,13 +12,17 @@ Unless otherwise provided herein, this SLA is subject to the provisions of the T
 
 This SLA applies separately to each of your DoorFlow Accounts, as defined in the Terms.
 
-### 1. DoorFlow Service Commitment: 99.95% Uptime
+---
+
+## 1. DoorFlow Service Commitment: 99.95% Uptime
 
 NetNodes will use commercially reasonable efforts to make your DoorFlow Services available with a Monthly Uptime Percentage of at least 99.95% during any monthly billing cycle (the “Service Commitment”). Subject to the SLA Exclusions, if we do not meet the Service Commitment, you will be eligible to receive a Service Credit.
 
 A Monthly Uptime Percentage of 99.95% means that we guarantee you will experience no more than 21.56 min/month of Unavailability.
 
-### 2. Definitions
+---
+
+## 2. Definitions
 
 “Maintenance” means scheduled Unavailability of the DoorFlow Services, as announced by us prior to the DoorFlow Services becoming Unavailable.
 
@@ -30,7 +34,9 @@ A Monthly Uptime Percentage of 99.95% means that we guarantee you will experienc
 
 "DoorFlow Service" means the web based services available in a browser at admin.doorflow.com (including the API). This excludes CardPrint desktop card printing services and associated tools/applications.
 
-### 3. Service Commitments and Service Credits
+---
+
+## 3. Service Commitments and Service Credits
 
 Service Credits are calculated as a percentage of the total charges due on your DoorFlow invoice for the monthly billing cycle in which the Unavailability occurred, applied proportionally to the Services that were Unavailable, in accordance with the schedule below:
 
@@ -41,11 +47,15 @@ _For example, if DoorFlow is Unavailable for 25 minutes, you would be eligible f
 
 We will apply any Service Credits only against future payments for the Services otherwise due from you. At our discretion, we may issue the Service Credit to the credit card you used to pay for the billing cycle in which the Unavailability occurred. Service Credits will not entitle you to any refund or other payment from NetNodes. A Service Credit will be applicable and issued only if the credit amount for the applicable monthly billing cycle is greater than one pound sterling (£1). Service Credits may not be transferred or applied to any other account.
 
-### 4. Sole Remedy
+---
+
+## 4. Sole Remedy
 
 Unless otherwise provided in the Terms, your sole and exclusive remedy for any unavailability, non-performance, or other failure by us to provide the Services is the receipt of a Service Credit (if eligible) in accordance with the terms of this SLA.
 
-### 5. Credit Request and Payment Procedures
+---
+
+## 5. Credit Request and Payment Procedures
 
 To receive a Service Credit, you must submit a claim by emailing support@doorflow.com. To be eligible, the credit request must be received by us by the end of the month after which the incident occurred and must include:
 
@@ -56,7 +66,9 @@ To receive a Service Credit, you must submit a claim by emailing support@doorflo
 
 If the Monthly Uptime Percentage of such request is confirmed by us and is less than the Service Commitment, then we will issue the Service Credit to you within one billing cycle following the month in which your request is confirmed by us. Your failure to provide the request and other information as required above will disqualify you from receiving a Service Credit.
 
-### 6. SLA Exclusions
+---
+
+## 6. SLA Exclusions
 
 The Service Commitment does not apply to any Unavailability:
 

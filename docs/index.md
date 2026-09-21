@@ -1,8 +1,10 @@
-## Legal Overview
+# Legal Overview
 
 DoorFlow is a trading name of NetNodes Limited. This site contains the terms and policies that govern the use of the DoorFlow platform.
 
 DoorFlow is cloud-based access control for offices, co-working spaces, schools, universities and sports clubs. Our legal terms are written to support secure and responsible use of these capabilities while remaining clear and easy to follow.
+
+---
 
 ## DoorFlow Terms
 
@@ -17,6 +19,8 @@ The following documents relate directly to the DoorFlow platform:
 - [DoorFlow SDK Licence](doorflow_sdk_license)
 
 These documents explain how the DoorFlow platform works, how we provide support, and the rules that keep the platform safe and reliable.
+
+---
 
 ## Corporate Policies
 
@@ -34,6 +38,8 @@ Two further NetNodes Limited documents apply and are published on the corporate 
 
 All of these are NetNodes Limited policies. The full set is at
 [policy.netnodes.net](https://policy.netnodes.net).
+
+---
 
 ## Our Commitment
 

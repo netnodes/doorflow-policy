@@ -2,13 +2,17 @@
 go_back: true
 ---
 
-## Environmental Policy
+# Environmental Policy
 
-### Aim of the environmental policy
+---
+
+## Aim of the environmental policy
 
 NetNodes is committed to minimising the environmental impact of its operations through the adoption of sustainable practices and continual improvement in environmental performance. We accept the 'Duty of Care' imposed by legislation as the minimum standard to be set and maintained, and we aim to develop a sustainable business that is financially viable, environmentally sustainable, and socially equitable.
 
-### In order to achieve this NetNodes will observe the following practices:​​
+---
+
+## In order to achieve this NetNodes will observe the following practices:
 
 1. Be conscious of the environment beyond our immediate operations and take steps to prevent pollution and minimise environmental harm and nuisance, through:
     * minimising our business travel and focusing on greener travel where possible

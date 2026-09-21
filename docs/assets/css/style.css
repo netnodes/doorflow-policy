@@ -203,10 +203,18 @@ ul li::before {
   display: block;
 }
 
+/* 150rem is the knowledge base's content width (main:not(.docs) in
+ * shared/articles.scss). Both sites use an 8px root, so this is the same
+ * 1200px. */
 .wrapper {
-  max-width: 800px;
+  max-width: 150rem;
   padding: 0 4rem;
   margin: 0 auto;
+}
+
+.logo {
+  margin: 0;
+  line-height: 0;
 }
 
 header {

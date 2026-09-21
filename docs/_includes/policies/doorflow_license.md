@@ -5,16 +5,16 @@ IMPORTANT: BY USING A DOORFLOW BRANDED PRODUCT, YOU ARE AGREEING TO BE BOUND BY 
 a.    NETNODES DOORFLOW SOFTWARE LICENSE AGREEMENT
 b.    NOTES FROM NETNODES
 
-## NETNODES DOORFLOW SOFTWARE LICENSE AGREEMENT CLICK-WRAP LICENCE
+# NETNODES DOORFLOW SOFTWARE LICENSE AGREEMENT CLICK-WRAP LICENCE
 
 PLEASE READ THIS SOFTWARE LICENSE AGREEMENT (“LICENSE”) CAREFULLY BEFORE USING ANY DOORFLOW BRANDED PRODUCTS (THE SOFTWARE) ACCOMPANYING THIS LICENSE. BY USING YOUR DOORFLOW ACCOUNT OR USING DOORFLOW BRANDED TITLES, AS APPLICABLE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE THE SOFTWARE OR BRANDED TITLES.
 
-##### A.	Property of licensor You may obtain a copy of this software product either by downloading it remotely from our server or by copying it from an authorised diskette, CD-ROM or other media ('hard media'). The copyright, database rights and any other intellectual property rights in the programs and data which constitute this software product ('the materials'), together with the hard media on which they were supplied to you, are and remain the property of the licensor ('the licensor'). You are licensed to use them only if you accept all the terms and conditions set out below.
+#### A.	Property of licensor You may obtain a copy of this software product either by downloading it remotely from our server or by copying it from an authorised diskette, CD-ROM or other media ('hard media'). The copyright, database rights and any other intellectual property rights in the programs and data which constitute this software product ('the materials'), together with the hard media on which they were supplied to you, are and remain the property of the licensor ('the licensor'). You are licensed to use them only if you accept all the terms and conditions set out below.
 
-##### B.	Licence acceptance procedure 
+#### B.	Licence acceptance procedure 
 y clicking on the two acceptance buttons which follow this licence agreement **(marked 'do you accept these terms and conditions?' and 'are you sure that you wish to accept these terms and conditions?')**, you indicate acceptance of this licence agreement and the limited warranty and limitation of liability set out in this licence agreement. Such acceptance is either on your own behalf or on behalf of any corporate entity which employs you or which you represent ('corporate licensee'). In this licence agreement, 'you' includes both the reader and any corporate licensee 
 
-#### C.	Licence rejection procedure 
+### C.	Licence rejection procedure 
 Yo should therefore read this licence agreement carefully before clicking on the two acceptance buttons. If you do not accept these terms and conditions, you should click on the 'reject' button, delete the materials from your computer and promptly (and in any event, within 14 days of receipt) return to the licensor or a licensed reseller;
 
 a.	the diskette or other media; 
@@ -23,28 +23,31 @@ b.any other items provided that are part of this product; and
 
 c. our dated proof of purchase. Any money you paid to the licensor or a licensor reseller for the materials will be refunded, along with all costs of postage and packing. 
 
-#### D.	Other agreements 
+### D.	Other agreements 
 If you use of these programs and data is pursuant to an executed licence agreement, such agreement shall apply instead of the following terms and conditions.
 
+---
 
-### LICENCE AGREEMENT AND LIMITED WARRANTY
+## LICENCE AGREEMENT AND LIMITED WARRANTY
  
-#### 1.	wnership of materials and copies 
+### 1.	wnership of materials and copies 
 The Mateials and related documentation are copyrighted works of authorship, and are also protected under applicable database laws. The Licensor retains ownership of the Materials and all subsequent copies of the Materials, regardless of the form in which the copies may exist. This licence is not a sale of the original Materials or any copies.
 
-#### 2.	Licence
+### 2.	Licence
 Unless you have a trial account, provided that you have paid the applicable licence fee, the Licensor grants to you a limited, non-exclusive licence to: 
 
 2.1	use and copy the Materials for use on any computer system owned, leased and/or controlled by you or any member of your corporate group, which expression includes the Corporate Licensee, the Corporate Licensee's majority-owned subsidiaries, any parent company having a majority-owned interest in the Corporate Licensee, and such parent's majority-owned subsidiaries;
 
 2.2	make copies of the Materials for back-up, archival or other security purposes 
-#### 3.	Licence restrictions 
+### 3.	Licence restrictions 
 ou may not use, copy, modify or transfer the Materials (including any related documentation) or any copy, in whole or in part, including any print-out of all or part of any database, except as expressly provided for in this licence. If you transfer possession of any copy of the Materials to another party except as provided above, your licence is automatically terminated. You may not translate, reverse engineer, decompile, disassemble, modify or create derivative works based on the Materials, except as expressly permitted by the law of this Agreement. You may not vary, delete or obscure any notices of proprietary rights or any product identification or restrictions on or in the Materials. 
 
-### 4.	No transfer 
+---
+
+## 4.	No transfer 
 Th Materials are licensed only to you. You may not rent, lease, sub-license, sell, assign, pledge, transfer or otherwise dispose of the Materials, on a temporary or permanent basis, without the prior written consent of the Licensor.
 
-#### 5.	Undertakings 
+### 5.	Undertakings 
 Youundertake to: 
 
 5.1ensure that, prior to use of the Materials by your employees or agents, all such parties are notified of this licence and the terms of this Agreement;    
@@ -53,7 +56,7 @@ Youundertake to:
 
 5.3	hold all drawings, specifications, data (including object and source codes), software listings and all other information relating to the Materials confidential and not at any time, during this licence or after its expiry, disclose the same, whether directly or indirectly, to any third party without the Licensor's consent.  
 
-#### 6.	Limited warranty 
+### 6.	Limited warranty 
 6.1	Sbject to the limitations and exclusions of liability below, the Licensor warrants that;
 
 a. the diskette(s) on which the Materials are furnished will be free from material defects under normal use; and that;
@@ -64,27 +67,29 @@ b. the copy of the program in the package will materially conform to the documen
 
 6.3	The Licensor shall not be liable under the said warranty above if the Materials fail to operate in accordance with the said warranty as a result of any modification, variation or addition to the Materials not performed by the Licensor or caused by any abuse, corruption or incorrect use of the Materials, including use of the Materials with equipment or other software which is incompatible.    
 
-#### 7.	No other warranties
+### 7.	No other warranties
 The foregoing warranty is made in lieu of any other warranties, representations or guarantees of any kind, either expressed or implied, including, but not limited to, any implied warranties of quality, merchantability, fitness for a particular purpose or ability to achieve a particular result. You assume the entire risk as to the quality and performance of the Materials. Should the Materials prove defective, you (and not the Licensor nor any licensed reseller) assume the entire cost of all necessary servicing, repair or correction. The Licensor does not warrant that the Materials will meet your requirements or that its operation will be uninterrupted or error free.
 
-#### 8.	Limitation of liability The Licensor's entire liability and your exclusive remedy shall be: 
+### 8.	Limitation of liability The Licensor's entire liability and your exclusive remedy shall be: 
 8.1 the replacement of any diskette not meeting the Licensor's `'Limited Warranty'` and which is returned to the Licensor together with dated proof of purchase; or    
 
 8.2	if, during the `Warranty Period`, the Licensor is unable to install or deliver a replacement diskette which is free of material defects, you may terminate this Agreement by returning the Materials to the Licensor and any money you paid to the Licensor for the Materials will be refunded, along with the cost of postage and packing.  
 
-#### 9.	Exclusion of liability 
+### 9.	Exclusion of liability 
 Ecept in respect of personal injury or death caused directly by the negligence of the Licensor, in no event will the Licensor be liable to you for any damages, including any lost profits, lost savings, loss of data or any indirect, special, incidental or consequential damages arising out of the use of or inability to use such Materials, even if the Licensor has been advised of the possibility of such damages. Nothing in this Agreement limits liability for fraudulent misrepresentation. 
 
-### 10.	Your statutory rights 
+---
+
+## 10.	Your statutory rights 
 Thi licence gives you specific legal rights and you may also have other rights that vary from country to country. Some jurisdictions do not allow the exclusion of implied warranties, or certain kinds of limitations or exclusions of liability, so the above limitations and exclusions may not apply to you. Other jurisdictions allow limitations and exclusions subject to certain conditions. In such a case the above limitations and exclusions shall apply to the fullest extent permitted by the laws of such applicable jurisdictions. If any part of the above limitations or exclusions is held to be void or unenforceable, such part shall be deemed to be deleted from this Agreement and the remainder of the limitation or exclusion shall continue in full force and effect. Any rights that you may have as a consumer (ie a purchaser for private as opposed to business, academic or government use) are not affected.
 
-#### 11.	Term 
+### 11.	Term 
 The icence is effective until terminated. You may terminate it at any time by destroying the Materials together with all copies in any form. It will also terminate upon conditions set out elsewhere in this Agreement or if you fail to comply with any term or condition of this Agreement or if you voluntarily return the Materials to us. You agree upon such termination to destroy the Materials together with all copies in any form. 
 
-#### 2.	Export 
+### 2.	Export 
 You wil comply with all applicable laws, rules, and regulations governing export of goods and information, including the laws of the countries in which the Materials were created. In particular, you will not export or re-export, directly or indirectly, separately or as a part of a system, the Materials or other information relating thereto to any country for which an export licence or other approval is required, without first obtaining such licence or other approval. 
 
-#### 13	General  
+### 13	General  
 
 13.1You agree that the Licensor shall have the right, after supplying undertakings as to confidentiality, to audit any computer system on which the Materials are installed in order to verify compliance with this software licence.    
 
