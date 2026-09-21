@@ -208,7 +208,7 @@ ul li::before {
  * 1200px. */
 .wrapper {
   max-width: 150rem;
-  padding: 0 4rem;
+  padding: 0 6rem;
   margin: 0 auto;
 }
 
