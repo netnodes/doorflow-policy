@@ -46,13 +46,13 @@ function reset() {
 function accept() {
   updateCookieDecision('OK');
   document.querySelector( '.cookies' ).classList.add('hidden');
-  document.cookie = 'cookieConsent=OK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=doorflow.com; path=/';
+  document.cookie = 'cookieConsent=OK; max-age=31536000; domain=doorflow.com; path=/';
 }
 
 function decline() {
   updateCookieDecision('NotOK');
   document.querySelector( '.cookies' ).classList.add('hidden');
-  document.cookie = 'cookieConsent=NotOK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=doorflow.com; path=/';
+  document.cookie = 'cookieConsent=NotOK; max-age=31536000; domain=doorflow.com; path=/';
   removeCookies();
 }
 
@@ -89,12 +89,13 @@ function getCookieNamesArray() {
 
 function removeCookies() {
   let cookieNames = getCookieNamesArray();
-  const prefixes = ['_ga', '_gid', 'cp', 'callpage'];
+  const prefixes = ['_pk_id', '_pk_ses', '_pk_ref', '_pk_cvar', '_ga', '_gid', 'cp', 'callpage'];
 
   for (let i = 0; i < cookieNames.length; i++) {
     const cookieName = cookieNames[i];
     if (prefixes.some(prefix => cookieName.indexOf(prefix) === 0)) {
-      document.cookie = cookieName + '=delete; expires=Sun, 1 Jan 2023 23:59:59 UTC; domain=doorflow.com; path=/;';
+      document.cookie = cookieName + '=delete; max-age=0; domain=doorflow.com; path=/;';
+      document.cookie = cookieName + '=delete; max-age=0; path=/;';
     }
   }
 
