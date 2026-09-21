@@ -3,6 +3,13 @@ title: DoorFlow Policy
 logo: /assets/images/logo.svg
 favicon: /assets/images/favicon.png
 
+# jekyll-redirect-from builds its targets from site.url. Without this it
+# falls back to site.github.url, which returns http:// unless Enforce HTTPS
+# is on for the repository - so the redirect stubs and their rel=canonical
+# pointed at http://. Stating it here makes the scheme independent of that
+# setting.
+url: https://policy.doorflow.com
+
 # Whitelisted on GitHub Pages but inactive unless declared. Needed so a
 # document that moves keeps its old URL working via redirect_from.
 plugins:
