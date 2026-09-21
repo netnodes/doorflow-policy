@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: DoorFlow Policy
 logo: /assets/images/logo.svg
 favicon: /assets/images/favicon.png
+
+# Whitelisted on GitHub Pages but inactive unless declared. Needed so a
+# document that moves keeps its old URL working via redirect_from.
+plugins:
+  - jekyll-redirect-from

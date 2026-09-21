@@ -22,7 +22,7 @@
           <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% endif %}
 
-        {% if !page.go_back %}
+        {% if page.go_back %}
           <a href="{{ "/" | absolute_url }}">Go back</a>
         {% endif %}
 
