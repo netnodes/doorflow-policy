@@ -2,13 +2,15 @@
 go_back: true
 ---
 
-## Corporate Social Responsibility
+# Corporate Social Responsibility
 
 NetNodes is committed to the highest standards of corporate citizenship. Our culture and values are rooted in service, integrity, and taking personal responsibility for our actions, outcomes, and reputation.
 
 Given the worldwide span of our staff, clients, suppliers, and partners, we recognise the global reach of our business practices and our public accountability.
 
-### NetNodes' corporate social responsibility commitments are built around four critical areas:
+---
+
+## NetNodes' corporate social responsibility commitments are built around four critical areas:
 
 * **Employees & People** – We take seriously our responsibilities to protect, support, and prepare colleagues for successful careers, and to advocate on their behalf. Our efforts are focused on providing career opportunities and resources to the global workforce, and leading by example in areas such as workplace safety, health and wellness, diversity and inclusion, and training and development. We believe in opportunity for all and are steadfast in our commitment to equal employment opportunity, the protection of human rights, and the prevention of human trafficking.
 
@@ -18,7 +20,9 @@ Given the worldwide span of our staff, clients, suppliers, and partners, we reco
 
 * **Environment** – NetNodes recognises a shared responsibility to protect our planet. Although our facilities and operations have a small ecological footprint, we reduce the environmental impact of our business through preservation, conservation, and waste reduction practices.
 
-### Underlying our corporate social responsibility program is a set of core policies that outline our approach and guide our activities.
+---
+
+## Underlying our corporate social responsibility program is a set of core policies that outline our approach and guide our activities.
 
 * Code of Business Conduct and Ethics – NetNodes' Code of Conduct provides mechanisms to prevent dishonest or unethical conduct, and fosters a culture of honesty and accountability. This policy outlines the responsibilities of our employees, including ensuring that our suppliers are aware of their obligation to conduct themselves in a legal and ethical way.
 

@@ -3,7 +3,7 @@ go_back: true
 cookies: true
 ---
 
-## Use of Cookies
+# Use of Cookies
 
 _Last updated: September 2026_
 
@@ -11,11 +11,15 @@ DoorFlow, a trading name of NetNodes Limited (“NetNodes”, “we”, “us”
 
 This policy lists every cookie we set, what it is for, and how long it lasts.
 
-### What Are Cookies?
+---
+
+## What Are Cookies?
 
 Cookies are small files stored on your device when you visit a website. They allow the site to remember information between pages and visits.
 
-### The Cookies We Set
+---
+
+## The Cookies We Set
 
 | Cookie | Set by | Purpose | Duration |
 | --- | --- | --- | --- |
@@ -26,7 +30,9 @@ Cookies are small files stored on your device when you visit a website. They all
 
 The strictly necessary cookies are set whatever you choose. Without them you may be unable to sign in.
 
-### Analytics
+---
+
+## Analytics
 
 We use **Matomo**, a web analytics service operated by InnoCraft Ltd, to understand how our sites are used so we can improve them. Matomo is listed in our [sub-processors](https://policy.netnodes.net/subprocessors).
 
@@ -34,15 +40,21 @@ Matomo's cookies are set **only once you have accepted them**. If you decline, o
 
 Matomo records individual visits rather than only totals: the `_pk_id` cookie distinguishes one visitor from another across visits. We use this to produce reports about how the site is used, not to identify you. Our [Privacy Notice](privacy) explains the lawful basis and how to object.
 
-### Preference Cookies
+---
+
+## Preference Cookies
 
 We do not currently set any preference cookie. If that changes - for example to remember remembering your last selected organisation or DoorFlow account, UI layout preferences, and language or regional settings - this policy will be updated first.
 
-### Cookies We Do Not Use
+---
+
+## Cookies We Do Not Use
 
 We use no advertising or marketing cookies, and we do not sell or share cookie data with advertisers. No third party other than Matomo Cloud sets a cookie on our sites.
 
-### Managing Cookies
+---
+
+## Managing Cookies
 
 You can change your answer at any time using the “Review your decision” button on this page.
 
@@ -50,7 +62,9 @@ You can also block or delete cookies through your browser settings. If you block
 
 Declining also deletes any Matomo cookie already set on an earlier visit.
 
-### Updates
+---
+
+## Updates
 
 We may update this policy from time to time. When we do, we will revise the “Last updated” date.
 

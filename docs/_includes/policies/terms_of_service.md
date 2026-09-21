@@ -1,4 +1,4 @@
-## DoorFlow Terms of Service
+# DoorFlow Terms of Service
 
 _Last updated: September 2026_
 
@@ -8,7 +8,9 @@ By creating an account, accessing, or using the Service, you agree to be bound b
 
 If you are entering into these Terms on behalf of an organisation, you represent that you have authority to bind that organisation. In such cases, “Customer” refers to that organisation.
 
-### 1. Accounts & Eligibility
+---
+
+## 1. Accounts & Eligibility
 
 1.1 **Minimum Age.** You must be at least 16 years old, or have a lawful basis to process data for individuals under 16.
 
@@ -20,7 +22,9 @@ If you are entering into these Terms on behalf of an organisation, you represent
 
 1.5 **Acceptable Use.** You may not use the Service for any unlawful, fraudulent or abusive activity, or in breach of any law in your jurisdiction.
 
-### 2. Data Protection & Privacy
+---
+
+## 2. Data Protection & Privacy
 
 2.1 **Customer Data Ownership.** Customer retains all rights to the data and content uploaded to or created within the Service (“Customer Data”), including cardholder records and access control events.
 
@@ -32,7 +36,9 @@ If you are entering into these Terms on behalf of an organisation, you represent
 
 2.5 **Access to Customer Data.** Our staff access Customer Data only in order to provide and support the Service, to prevent or address a service or technical problem, or where the law requires it.
 
-### 3. Use of the Service
+---
+
+## 3. Use of the Service
 
 3.1 **Licence to Use.** We grant you a limited, non-exclusive, non-transferable right to use the Service.
 
@@ -46,7 +52,9 @@ If you are entering into these Terms on behalf of an organisation, you represent
 
 3.3 **Third-Party Systems.** DoorFlow relies on door hardware, controllers and third-party services. Their terms also apply, and we are not responsible for their availability.
 
-### 4. API Terms
+---
+
+## 4. API Terms
 
 Customers may access their DoorFlow account data through our API, including through a NetNodes product or a third-party product.
 
@@ -56,7 +64,9 @@ Customers may access their DoorFlow account data through our API, including thro
 
 4.3 Developers must also comply with the [Developer Terms of Use](developer_terms).
 
-### 5. Subscriptions, Billing & Taxes
+---
+
+## 5. Subscriptions, Billing & Taxes
 
 5.1 **Basis of Charge.** Billing is calculated on peak monthly usage across three metrics: active People, active Channels and active Sites. We charge only for active people, channels and sites.
 
@@ -70,7 +80,9 @@ Customers may access their DoorFlow account data through our API, including thro
 
 5.6 **Taxes.** All fees are exclusive of taxes, levies and duties, which are your responsibility.
 
-### 6. Cancellation & Termination
+---
+
+## 6. Cancellation & Termination
 
 6.1 **Customer Cancellation.** You are responsible for cancelling your account, which you may do at any time.
 
@@ -80,13 +92,17 @@ Customers may access their DoorFlow account data through our API, including thro
 
 6.4 **Survival.** Sections relating to intellectual property, liability, indemnities and data protection survive termination.
 
-### 7. Intellectual Property
+---
+
+## 7. Intellectual Property
 
 7.1 **NetNodes IP.** All rights in the Service, its software, documentation and underlying technology belong to NetNodes. You may not duplicate, copy or reuse any part of its HTML, CSS, JavaScript or visual design without our written permission.
 
 7.2 **Customer IP.** Customer retains ownership of Customer Data and of materials it uploads. We claim no intellectual property rights over them.
 
-### 8. Security and Site Safety
+---
+
+## 8. Security and Site Safety
 
 8.1 **Our Security.** We implement industry-standard technical and organisational measures to protect Customer Data.
 
@@ -96,7 +112,9 @@ Customers may access their DoorFlow account data through our API, including thro
 
 8.4 **Transmission.** You understand that operating the Service involves transmission over various networks, and changes to conform to the technical requirements of connecting networks or devices.
 
-### 9. Availability & Support
+---
+
+## 9. Availability & Support
 
 9.1 **Availability.** Service availability is governed by our [Service Level Agreement](service_level_agreement).
 
@@ -104,7 +122,9 @@ Customers may access their DoorFlow account data through our API, including thro
 
 9.3 **Abuse of Staff.** Verbal, physical or written abuse of any NetNodes customer, employee, officer or contractor, including threats, will result in immediate account termination.
 
-### 10. Limitation of Liability
+---
+
+## 10. Limitation of Liability
 
 To the maximum extent permitted by law:
 
@@ -114,7 +134,9 @@ To the maximum extent permitted by law:
 
 Nothing in this clause limits liability that cannot be excluded by law, including liability for death or personal injury caused by negligence, or for fraud.
 
-### 11. Indemnification
+---
+
+## 11. Indemnification
 
 Customer will indemnify and hold NetNodes harmless from claims arising from:
 
@@ -123,16 +145,22 @@ Customer will indemnify and hold NetNodes harmless from claims arising from:
 - infringement caused by Customer content
 - breach of these Terms
 
-### 12. Modifications
+---
+
+## 12. Modifications
 
 We may update these Terms by posting revised terms at [policy.doorflow.com](https://policy.doorflow.com/). Continued use of the Service after a change constitutes acceptance. You can review the current version at any time at that address.
 
-### 13. Governing Law
+---
+
+## 13. Governing Law
 
 These Terms are governed by the laws of England and Wales, and the courts of England and Wales have exclusive jurisdiction.
 
 For EU/EEA customers, mandatory consumer and data protection rights continue to apply.
 
-### 14. Contact
+---
+
+## 14. Contact
 
 Questions about these Terms may be sent to: **support@netnodes.net**
