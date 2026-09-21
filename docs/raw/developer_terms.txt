@@ -1,0 +1,9 @@
+---
+# Raw Markdown for apps that render the policy themselves. GitHub Pages
+# always converts .md to HTML, so the raw form needs a non-.md extension.
+# Generated from the same source as the HTML page, so the two cannot drift.
+# doorflow-utility-ios fetches this exact URL and renders it with MMMarkdown.
+layout: null
+permalink: /developer_terms.txt
+---
+{% include policies/developer_terms.md %}
