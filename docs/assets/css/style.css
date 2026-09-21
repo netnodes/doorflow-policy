@@ -166,6 +166,23 @@ h6 {
   font-family: var(--font__bold);
 }
 
+/* Headings had no bottom margin - h1 sets `margin: 0` outright, and the shared
+ * rule above only sets margin-top. Anything following that carries no top
+ * margin of its own therefore butted straight up against the heading: a table
+ * (margin: 0 0 2rem), a blockquote, a code block. The knowledge base gives
+ * every block element a bottom margin; these get the same. Vertical margins
+ * collapse, so a paragraph after a heading is unaffected - it keeps its 3rem.
+ * Scoped to section so the header is untouched. */
+
+section h1,
+section h2,
+section h3,
+section h4,
+section h5,
+section h6 {
+  margin-bottom: 2rem;
+}
+
 h4 + p {
   margin-top: 1rem;
 }
