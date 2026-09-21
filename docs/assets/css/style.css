@@ -21,6 +21,8 @@
   --color__primary: 14,38,83;
   --color__secondary: 33, 36, 44;
   --color__accent: 56, 131, 227;
+  --color__table: 225,225,225;
+  --color__grey: 237,242,247;
   --font__regular: 'Averta Regular';
   --font__bold: 'Averta Bold';
 }
@@ -59,11 +61,6 @@ label,
 select,
 input,
 button,
-table {
-  font-size: 2rem;
-  font-weight: 300;
-  margin: 0;
-}
 
 a {
   color: rgba(var(--color__accent), 1);
@@ -240,5 +237,124 @@ button.review-cookie-decision {
     margin-bottom: 16px;
     margin-left: 16px;
     max-width: 384px;
+  }
+}
+
+/* Tables.
+ *
+ * Ported from the knowledge base (doorflow-knowledge-base,
+ * app/assets/stylesheets/shared/articles.scss), which already styles these
+ * well. Both sites use font-size: 8px on the root and the same --color__*
+ * convention of RGB triplets, so the rem values carry over unchanged.
+ *
+ * This replaces a `table { font-size: 2rem }` rule inherited from
+ * jekyll-theme-minimal, which set a 16px type size and nothing else - no
+ * borders, no padding, no alignment - so a real data table rendered as
+ * unaligned text. */
+
+table {
+  width: 100%;
+  font-size: 1.6rem;
+  border: 1px solid rgba(var(--color__table), 1);
+  border-collapse: separate;
+  border-left: 0;
+  border-radius: 0.75rem;
+  border-spacing: 0;
+  margin: 0 0 2rem 0;
+}
+
+table thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+  border-collapse: separate;
+}
+
+table tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+table tr:hover td {
+  background: rgba(var(--color__table), 0.1);
+}
+
+table th,
+table td {
+  border-left: 1px solid rgba(var(--color__table), 0.5);
+  padding: 1.5rem;
+}
+
+table th:first-child,
+table td:first-child {
+  border-left-color: rgba(var(--color__table), 1);
+}
+
+table th {
+  text-align: left;
+  vertical-align: bottom;
+  background: rgba(var(--color__table), 0.2);
+  font-family: var(--font__bold);
+}
+
+table th[align="center"] {
+  text-align: center;
+}
+
+table td {
+  vertical-align: top;
+  border-top: 1px solid rgba(var(--color__table), 0.5);
+}
+
+table thead:first-child tr:first-child th:first-child {
+  border-radius: 0.75rem 0 0 0;
+}
+
+table thead:first-child tr:first-child th:last-child {
+  border-radius: 0 0.75rem 0 0;
+}
+
+table tbody:last-child tr:last-child td:first-child {
+  border-radius: 0 0 0 0.75rem;
+}
+
+table tbody:last-child tr:last-child td:last-child {
+  border-radius: 0 0 0.75rem 0;
+}
+
+table code {
+  font-size: 1.4rem;
+  word-break: break-word;
+}
+/* Inline code.
+ *
+ * Also from the knowledge base. The policy sites had no `code` rule at all, so
+ * a cookie name written in backticks rendered as unstyled browser-default
+ * monospace at an inherited size. */
+
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: 1.6rem;
+  white-space: break-spaces;
+  background: rgba(var(--color__grey), 1);
+  border-radius: 0.5rem;
+  font-family: "Monaco", "Inconsolata", "Consolas", monospace;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+
+/* A four-column table does not fit a phone. Scroll it rather than letting it
+ * push the page wider than the viewport. */
+@media (max-width: 640px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
   }
 }
