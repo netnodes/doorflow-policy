@@ -61,6 +61,11 @@ label,
 select,
 input,
 button,
+table {
+  font-size: 2rem;
+  font-weight: 300;
+  margin: 0;
+}
 
 a {
   color: rgba(var(--color__accent), 1);
@@ -71,11 +76,22 @@ h1,
 h2,
 h3,
 h4,
+h5,
+h6,
 ul,
 ol,
 p {
   margin-top: 3rem;
-  line-height: 3rem;
+  line-height: 1.4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgba(var(--color__primary), 1);
 }
 
 h1 {
@@ -86,21 +102,33 @@ h1 {
 }
 
 h2 {
-  font-size: 2.5rem;
+  font-size: 3.25rem;
   font-weight: bold;
   font-family: var(--font__bold);
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: bold;
   font-family: var(--font__bold);
 }
 
 h4 {
+  font-size: 2.25rem;
   font-weight: bold;
   font-family: var(--font__bold);
-  font-size: 1.8rem;
+}
+
+h5 {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: var(--font__bold);
+}
+
+h6 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  font-family: var(--font__bold);
 }
 
 h4 + p {
@@ -247,14 +275,13 @@ button.review-cookie-decision {
  * well. Both sites use font-size: 8px on the root and the same --color__*
  * convention of RGB triplets, so the rem values carry over unchanged.
  *
- * This replaces a `table { font-size: 2rem }` rule inherited from
- * jekyll-theme-minimal, which set a 16px type size and nothing else - no
- * borders, no padding, no alignment - so a real data table rendered as
- * unaligned text. */
+ * Before this there were no table rules at all: `table` appeared only as the
+ * last selector in the shared base list, picking up a 2rem type size and
+ * nothing else - no borders, no padding, no alignment - so a real data table
+ * rendered as unaligned text. */
 
 table {
   width: 100%;
-  font-size: 1.6rem;
   border: 1px solid rgba(var(--color__table), 1);
   border-collapse: separate;
   border-left: 0;
@@ -357,4 +384,304 @@ pre code {
     overflow-x: auto;
     white-space: nowrap;
   }
+}
+
+/* The rest of the Markdown constructs, ported from the knowledge base
+ * (doorflow-knowledge-base, shared/articles.scss and application.scss), so a
+ * policy document renders the same way a knowledge base article does.
+ *
+ * Before this only headings, paragraphs, lists, links and tables were styled.
+ * A blockquote, a fenced code block, an image or a horizontal rule in a policy
+ * document fell back to browser defaults against an 8px root. */
+
+blockquote {
+  display: block;
+  font-style: normal;
+  border-left: 0.4rem solid rgba(var(--color__secondary), 1);
+  background: rgba(var(--color__secondary), 0.1);
+  padding: 1rem 2rem;
+  margin: 0 0 2rem 0;
+}
+
+blockquote > :first-child {
+  margin-top: 0;
+}
+
+pre {
+  padding: 1rem 2rem;
+  border: 1px solid rgba(var(--color__grey), 1);
+  background: rgba(var(--color__grey), 0.5);
+  border-radius: 0.75rem;
+  overflow: auto;
+  margin: 0 0 2rem 0;
+}
+
+pre code,
+pre span {
+  font-size: 1.5rem;
+  font-family: "Monaco", "Inconsolata", "Consolas", monospace;
+  white-space: break-spaces;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+hr {
+  margin: 4rem 0;
+  height: 1px;
+  border: none;
+  background: rgba(var(--color__grey), 1);
+}
+
+/* Ordered lists. The shared `ul` rules below strip list-style and draw a square
+ * bullet via ::before, which would otherwise leave an ordered list unnumbered.
+ * The knowledge base restores the number with a counter; so does this. */
+
+ol {
+  list-style: none;
+  counter-reset: number;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+ol li {
+  counter-increment: number;
+  display: table;
+  line-height: 1.6;
+  padding-left: 0;
+}
+
+ol li::before {
+  content: counter(number) ".";
+  display: table-cell;
+  text-align: right;
+  padding-right: 1rem;
+  position: static;
+  width: auto;
+  height: auto;
+  background: none;
+}
+
+/* Syntax highlighting for fenced code blocks, ported verbatim from the
+ * knowledge base (shared/rouge.css). Jekyll highlights with Rouge and emits
+ * these class names; without the stylesheet a fenced code block renders as
+ * undifferentiated text. No policy document uses one today - this is here so
+ * that one renders correctly if it ever does. */
+
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+.highlight .cm {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .cp {
+  color: #999999;
+  font-weight: bold;
+}
+.highlight .c1 {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .cs {
+  color: #999999;
+  font-weight: bold;
+  font-style: italic;
+}
+.highlight .c, .highlight .ch, .highlight .cd, .highlight .cpf {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+}
+.highlight .gd {
+  color: #000000;
+  background-color: #ffdddd;
+}
+.highlight .ge {
+  color: #000000;
+  font-style: italic;
+}
+.highlight .gr {
+  color: #aa0000;
+}
+.highlight .gh {
+  color: #999999;
+}
+.highlight .gi {
+  color: #000000;
+  background-color: #ddffdd;
+}
+.highlight .go {
+  color: #888888;
+}
+.highlight .gp {
+  color: #555555;
+}
+.highlight .gs {
+  font-weight: bold;
+}
+.highlight .gu {
+  color: #aaaaaa;
+}
+.highlight .gt {
+  color: #aa0000;
+}
+.highlight .kc {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .kd {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .kn {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .kp {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .kr {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .kt {
+  color: #445588;
+  font-weight: bold;
+}
+.highlight .k, .highlight .kv {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .mf {
+  color: #009999;
+}
+.highlight .mh {
+  color: #009999;
+}
+.highlight .il {
+  color: #009999;
+}
+.highlight .mi {
+  color: #009999;
+}
+.highlight .mo {
+  color: #009999;
+}
+.highlight .m, .highlight .mb, .highlight .mx {
+  color: #009999;
+}
+.highlight .sa {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .sb {
+  color: #d14;
+}
+.highlight .sc {
+  color: #d14;
+}
+.highlight .sd {
+  color: #d14;
+}
+.highlight .s2 {
+  color: #d14;
+}
+.highlight .se {
+  color: #d14;
+}
+.highlight .sh {
+  color: #d14;
+}
+.highlight .si {
+  color: #d14;
+}
+.highlight .sx {
+  color: #d14;
+}
+.highlight .sr {
+  color: #009926;
+}
+.highlight .s1 {
+  color: #d14;
+}
+.highlight .ss {
+  color: #990073;
+}
+.highlight .s, .highlight .dl {
+  color: #d14;
+}
+.highlight .na {
+  color: #008080;
+}
+.highlight .bp {
+  color: #999999;
+}
+.highlight .nb {
+  color: #0086B3;
+}
+.highlight .nc {
+  color: #445588;
+  font-weight: bold;
+}
+.highlight .no {
+  color: #008080;
+}
+.highlight .nd {
+  color: #3c5d5d;
+  font-weight: bold;
+}
+.highlight .ni {
+  color: #800080;
+}
+.highlight .ne {
+  color: #990000;
+  font-weight: bold;
+}
+.highlight .nf, .highlight .fm {
+  color: #990000;
+  font-weight: bold;
+}
+.highlight .nl {
+  color: #990000;
+  font-weight: bold;
+}
+.highlight .nn {
+  color: #555555;
+}
+.highlight .nt {
+  color: #000080;
+}
+.highlight .vc {
+  color: #008080;
+}
+.highlight .vg {
+  color: #008080;
+}
+.highlight .vi {
+  color: #008080;
+}
+.highlight .nv, .highlight .vm {
+  color: #008080;
+}
+.highlight .ow {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .o {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .w {
+  color: #bbbbbb;
+}
+.highlight {
+  background-color: #f8f8f8;
 }
