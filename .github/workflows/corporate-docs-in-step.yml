@@ -1,0 +1,57 @@
+# NetNodes Limited is the trading entity; this site is a product layer on top of
+# it. The company-wide policies below are owned by netnodes/Values and published
+# here under this brand's own URL so that a reader is not thrown off the site to
+# find them.
+#
+# Publishing a copy means the copy can drift. This check makes that unmergeable:
+# edit the document in netnodes/Values, then copy it here in the same change.
+name: Corporate documents in step
+
+on:
+  pull_request:
+    paths:
+      - 'docs/corporate_social_responsibility.md'
+      - 'docs/equal_opportunities.md'
+      - 'docs/environmental.md'
+      - 'docs/terms.md'
+      - '.github/workflows/corporate-docs-in-step.yml'
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compare against netnodes/Values
+        run: |
+          set -uo pipefail
+          CANON_RAW="https://raw.githubusercontent.com/netnodes/Values/master/docs"
+          fail=0
+          for f in corporate_social_responsibility equal_opportunities environmental terms; do
+            if [ ! -f "docs/$f.md" ]; then
+              printf '  %-34s not published here - skipped\n' "$f"
+              continue
+            fi
+            if ! curl -fsSL "$CANON_RAW/$f.md" -o "/tmp/$f.canon"; then
+              printf '  %-34s COULD NOT FETCH canonical copy\n' "$f"
+              fail=1
+              continue
+            fi
+            if cmp -s "docs/$f.md" "/tmp/$f.canon"; then
+              printf '  %-34s in step\n' "$f"
+            else
+              printf '  %-34s DRIFTED\n' "$f"
+              diff "/tmp/$f.canon" "docs/$f.md" | sed 's/^/      /'
+              fail=1
+            fi
+          done
+          if [ $fail -ne 0 ]; then
+            echo
+            echo "A company-wide policy published here differs from netnodes/Values,"
+            echo "which owns it. Fix it there first, then copy the file across in this"
+            echo "same pull request so the two land together."
+            exit 1
+          fi
