@@ -144,6 +144,10 @@ Requests about information held by a DoorFlow customer must be made to that cust
 
 Requests about data we collect directly can be made to [**privacy@netnodes.net**](mailto:privacy@netnodes.net).
 
+You also have the right to complain to the Information Commissioner's Office, the UK supervisory authority for data protection, at [ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/). We would ask you to raise it with us first, so that we have the chance to put it right.
+
+**Automated decision-making.** We do not make decisions about you by automated means that produce legal effects or similarly significant effects, and we do not carry out profiling of that kind.
+
 ---
 
 ## 7. Rights for California / US Users
