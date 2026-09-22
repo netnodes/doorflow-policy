@@ -18,7 +18,7 @@ These Terms govern your access to and use of our APIs, SDKs, app keys and access
 
 ## 3. Registration
 
-To access the Developer Platform, you must follow the registration process established by DoorFlow. DoorFlow may approve or deny access to the Developer Platform in its sole discretion. When you register, you may be subject to DoorFlow’s standard [Terms of Service](https://policy.doorflow.com/terms_of_service) and [Privacy Policy](https://policy.doorflow.com/privacy_policy) (“DoorFlow Service Terms”), as well as any additional registration terms specified by DoorFlow.
+To access the Developer Platform, you must follow the registration process established by DoorFlow. DoorFlow may approve or deny access to the Developer Platform in its sole discretion. When you register, you may be subject to DoorFlow’s standard [Terms of Service](https://policy.doorflow.com/terms_of_service) and [Privacy Policy](https://policy.doorflow.com/privacy) (“DoorFlow Service Terms”), as well as any additional registration terms specified by DoorFlow.
 
 ---
 
