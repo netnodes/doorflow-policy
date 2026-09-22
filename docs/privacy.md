@@ -184,7 +184,31 @@ Security measures include:
 
 We retain personal data only for as long as it is needed.
 
-DoorFlow customers may set their own retention periods for cardholder and event data.
+**Activity data.** Each time a credential is presented at a reader, DoorFlow records the reader, the date and time, the location, and the person the credential belongs to. We call this Activity data. A DoorFlow account holds Activity data for two years by default, across every location on the account.
+
+That period is not fixed. As the account owner you can ask us to change it at any time, to keep data for longer or to clear it sooner. At the end of the retention period, Activity data is deleted automatically and permanently. That deletion cannot be undone: if you shorten your retention period, data falling outside the new window is deleted and cannot be recovered.
+
+**Account data.** The account data you hold in DoorFlow - people, credentials, roles, groups, locations and permissions - belongs to you. You can view, correct, export and delete it in the DoorFlow interface or through the API at any time.
+
+When you delete a person's record it is marked as deleted rather than removed immediately, and is permanently deleted 60 days later. During those 60 days the record can be restored through the API.
+
+Deleting a person does not delete their Activity data. Activity records are kept for your account's retention period, described above, and are removed when that period expires.
+
+**Administrator audit logs.** We keep a record of administrative actions taken on your account. These are kept for the life of the account, and deleted when the account is permanently deleted - 90 days after termination, or sooner at your request.
+
+**Limited exceptions.** In a few cases we keep data beyond your retention period:
+
+- **Backups.** Data deleted from active systems remains in encrypted backups until those backups reach the end of their rotation cycle, when they are securely destroyed.
+- **Legal obligations and claims.** Where the law requires it, or where data is needed to establish, exercise or defend a legal claim, we retain the minimum necessary for as long as that need lasts.
+- **Billing and accounting records.** Retained for the statutory period, usually six to seven years.
+- **Security investigations.** Where we are investigating a specific security incident, we retain the records relevant to it until that investigation and any resulting action is complete.
+- **Anonymised data.** Data aggregated or anonymised so that it can no longer identify anyone is not personal data, and may be retained.
+
+These are exceptions to deletion from active systems, not an extension of your retention period. We do not use data held under them for any other purpose.
+
+**After your contract ends.** The periods above apply while your account is active. When your agreement with us ends, Customer Data is deleted in line with our [Data Processing Agreement](https://policy.netnodes.net/dpa).
+
+For more detail, see [How long DoorFlow keeps Activity data](https://kb.doorflow.com/articles/48053).
 
 ---
 
